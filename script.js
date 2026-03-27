@@ -301,8 +301,8 @@ function filterZones() {
 }
 
 function openZone(file) {
-    // Check if it's a local file (proxy or other local content)
-    if (file.url === 'proxy.html' || (!file.url.startsWith("http") && !file.url.includes("{HTML_URL}"))) {
+    // Check if it's a local file (proxy.html or starts with local path)
+    if (file.url === 'proxy.html' || (file.url && !file.url.startsWith('http') && !file.url.includes('{'))) {
         if (zoneFrame.contentDocument === null) {
             zoneFrame = document.createElement("iframe");
             zoneFrame.id = "zoneFrame";
@@ -315,15 +315,6 @@ function openZone(file) {
         if (file.authorLink) {
             document.getElementById('zoneAuthor').href = file.authorLink;
         }
-        // Hide download and open in new tab buttons for local files
-        const controls = document.querySelector('.zone-controls');
-        controls.querySelectorAll('button').forEach(btn => {
-            if (btn.textContent.includes('Download') || btn.textContent.includes('Open in New Tab')) {
-                btn.style.display = 'none';
-            } else {
-                btn.style.display = '';
-            }
-        });
         zoneViewer.style.display = "block";
         try {
             const url = new URL(window.location);
@@ -332,14 +323,6 @@ function openZone(file) {
         } catch(error){}
         zoneViewer.hidden = true;
         return;
-    }
-    
-    // Show all buttons for other zones
-    const controls = document.querySelector('.zone-controls');
-    if (controls) {
-        controls.querySelectorAll('button').forEach(btn => {
-            btn.style.display = '';
-        });
     }
     
     if (file.url.startsWith("http") || file.url.startsWith("2048/")) {
@@ -891,7 +874,6 @@ function showZoneInfo() {
 function closePopup() {
     document.getElementById('popupOverlay').style.display = "none";
 }
-
 listZones();
 
 HTMLCanvasElement.prototype.toDataURL = function (...args) {
