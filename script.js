@@ -52,187 +52,38 @@ function switchTab(tabName) {
 }
 
 function loadMovies() {
+    // Complete movie collection from your document
     movies = [
-        {
-            id: 1,
-            name: "Deadpool and Wolverine",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/dp3_1sht_digital_srgb_ka_swords_v5_resized.jpg",
-            url: "https://drive.google.com/file/d/1B_eiKUt7N5OxyUN9c37LG0pxcErP4yJ6/view",
-            author: "Shawn Levy",
-            year: 2024,
-            genre: ["Action", "Comedy"]
-        },
-        {
-            id: 2,
-            name: "Captain America: The First Avenger",
-            cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/CaptainAmericaTheFirstAvengerComicConPoster.webp",
-            url: "https://drive.google.com/file/d/1n_-YoXC2sFts08F4W2inaW1AGobt1C2y/view?usp=sharing",
-            author: "Joe Johnston",
-            year: 2011,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 3,
-            name: "Captain America: Brave New World",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/e72a581c-12cb-4e03-ae93-a1ebcb7d07fa.sized-1000x1000.jpg",
-            url: "https://drive.google.com/file/d/1pJ5N0z8bQFpqeMx2UrZqrU1526ygzxDm/view?usp=sharing",
-            author: "Julius Onah",
-            year: 2025,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 4,
-            name: "Dog Man",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/redraw-of-the-dog-man-movie-poster-in-the-comic-book-covers-v0-6fajo4f1dmbe1.jpeg",
-            url: "https://drive.google.com/file/d/1fGpb8UBbynGx9NaHDc5wPzYjjUAD7gLW/view",
-            author: "Peter Hastings",
-            year: 2025,
-            genre: ["Animation", "Family"]
-        },
-        {
-            id: 5,
-            name: "Spider-Man: Into the Spider-Verse",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM%40._V1_FMjpg_UX1000_.jpg",
-            url: "https://drive.google.com/file/d/1V3Bq0lrDQUxJay5DDs3gK69ZvRNb1j2u/view",
-            author: "Bob Persichetti",
-            year: 2018,
-            genre: ["Animation", "Action"]
-        },
-        {
-            id: 6,
-            name: "Spider-Man: Across the Spider-Verse",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/spider-man-across-the-spider-verse-poster.jpg",
-            url: "https://drive.google.com/file/d/1Sd1l_LhKRp_2OE5gRJJyPubnZjJccLgQ/view",
-            author: "Joaquim Dos Santos",
-            year: 2023,
-            genre: ["Animation", "Action"]
-        },
-        {
-            id: 7,
-            name: "Moana 2",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Moana_2_Official_Poster.jpg",
-            url: "https://drive.google.com/file/d/1khAaDGsMt8pAGqtIPJERCqM_PgpiLShO/view",
-            author: "David Derrick Jr.",
-            year: 2024,
-            genre: ["Animation", "Adventure"]
-        },
-        {
-            id: 8,
-            name: "The Lego Batman Movie",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/war-d619743d.jpg",
-            url: "https://drive.google.com/file/d/1Xn4F4GNvfKOljko2ZE_JUQcBWIHhO0ql/view",
-            author: "Chris McKay",
-            year: 2017,
-            genre: ["Animation", "Comedy"]
-        },
-        {
-            id: 9,
-            name: "The Super Mario Bros. Movie",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/the-super-mario-bros-movie_7bqmuyso.jpg",
-            url: "https://drive.google.com/file/d/1q2pk3lo5VIDWKQq2lCh_UTC_V9Zkv-_X/view",
-            author: "Aaron Horvath",
-            year: 2023,
-            genre: ["Animation", "Adventure"]
-        },
-        {
-            id: 10,
-            name: "Sonic the Hedgehog",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-            url: "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/view",
-            author: "Jeff Fowler",
-            year: 2020,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 11,
-            name: "Sonic the Hedgehog 2",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/sonic_the_hedgehog_two_ver13_xlg.avif",
-            url: "https://drive.google.com/file/d/1cXe1a5ueZU9U_QZBU1-XpgNK0s6wi4o6/view",
-            author: "Jeff Fowler",
-            year: 2022,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 12,
-            name: "Sonic the Hedgehog 3",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/IMG_4074-966x1200.jpg",
-            url: "https://drive.google.com/file/d/1-zHQI9U47xaDtLR9qNpHGBmk63Nnc07b/view?usp=sharing",
-            author: "Jeff Fowler",
-            year: 2024,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 13,
-            name: "Sonic OVA",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/SonicanimeVHS.jpg",
-            url: "https://drive.google.com/file/d/1_vnuQWGnvMa4uvt9c2MVYYznq_FjgHav/view",
-            author: "Kazunori Ikegami",
-            year: 1996,
-            genre: ["Animation", "Adventure"]
-        },
-        {
-            id: 14,
-            name: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/teenage_mutant_ninja_turtles_mutant_mayhem.jpg",
-            url: "https://drive.google.com/file/d/1IZNQlKBJi5HwRJDokQ-YuxfteFKgLZI5/view",
-            author: "Jeff Rowe",
-            year: 2023,
-            genre: ["Animation", "Action"]
-        },
-        {
-            id: 15,
-            name: "Inside Out",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71PFAPwyZRL.jpg",
-            url: "https://drive.google.com/file/d/1BEPGPg_iR7L5QFJ91SizjlA6khwj6j1e/view",
-            author: "Pete Docter",
-            year: 2015,
-            genre: ["Animation", "Family"]
-        },
-        {
-            id: 16,
-            name: "Inside Out 2",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/81do41OmwiL.jpg",
-            url: "https://drive.google.com/file/d/148ae2JtLzIZwy-AKjtRgLZPNf3vEmQOE/view",
-            author: "Kelsey Mann",
-            year: 2024,
-            genre: ["Animation", "Family"]
-        },
-        {
-            id: 17,
-            name: "The Lego Movie",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/s-l1200.jpg",
-            url: "https://drive.google.com/file/d/1j2kFu1apjVp0E2_xojdiqASlQOc8RBit/view",
-            author: "Phil Lord",
-            year: 2014,
-            genre: ["Animation", "Comedy"]
-        },
-        {
-            id: 18,
-            name: "The Lego Movie 2",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71ghbVie4TL._UF894%2C1000_QL80_.jpg",
-            url: "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/view",
-            author: "Mike Mitchell",
-            year: 2019,
-            genre: ["Animation", "Comedy"]
-        },
-        {
-            id: 19,
-            name: "The Regular Show: The Movie",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYWZlYjM3ZTAtOWE1YS00NzgyLThjYjctNzU5MDhhODExYWJhXkEyXkFqcGc%40._V1_.jpg",
-            url: "https://drive.google.com/file/d/1q1PFmdU3DJRopHbRU5Xmg2zJxA3hjfzX/view?usp=sharing",
-            author: "J.G. Quintel",
-            year: 2015,
-            genre: ["Animation", "Comedy"]
-        },
-        {
-            id: 20,
-            name: "Five Nights at Freddy's",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Fnaf_Movie_Poster.png",
-            url: "https://drive.google.com/file/d/1tyzXrXFux15AXpZxtiM61p1R1zO6NbSF/view",
-            author: "Emma Tammi",
-            year: 2023,
-            genre: ["Horror", "Mystery"]
-        }
+        { id: 1, name: "Deadpool and Wolverine", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/dp3_1sht_digital_srgb_ka_swords_v5_resized.jpg", url: "https://drive.google.com/file/d/1B_eiKUt7N5OxyUN9c37LG0pxcErP4yJ6/view", author: "Shawn Levy", year: 2024, genre: ["Action", "Comedy"] },
+        { id: 2, name: "Captain America: The First Avenger", cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/CaptainAmericaTheFirstAvengerComicConPoster.webp", url: "https://drive.google.com/file/d/1n_-YoXC2sFts08F4W2inaW1AGobt1C2y/view?usp=sharing", author: "Joe Johnston", year: 2011, genre: ["Action", "Adventure"] },
+        { id: 3, name: "Captain America: Brave New World", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/e72a581c-12cb-4e03-ae93-a1ebcb7d07fa.sized-1000x1000.jpg", url: "https://drive.google.com/file/d/1pJ5N0z8bQFpqeMx2UrZqrU1526ygzxDm/view?usp=sharing", author: "Julius Onah", year: 2025, genre: ["Action", "Adventure"] },
+        { id: 4, name: "Dog Man", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/redraw-of-the-dog-man-movie-poster-in-the-comic-book-covers-v0-6fajo4f1dmbe1.jpeg", url: "https://drive.google.com/file/d/1fGpb8UBbynGx9NaHDc5wPzYjjUAD7gLW/view", author: "Peter Hastings", year: 2025, genre: ["Animation", "Family"] },
+        { id: 5, name: "Spider-Man: Into the Spider-Verse", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM%40._V1_FMjpg_UX1000_.jpg", url: "https://drive.google.com/file/d/1V3Bq0lrDQUxJay5DDs3gK69ZvRNb1j2u/view", author: "Bob Persichetti", year: 2018, genre: ["Animation", "Action"] },
+        { id: 6, name: "Spider-Man: Across the Spider-Verse", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/spider-man-across-the-spider-verse-poster.jpg", url: "https://drive.google.com/file/d/1Sd1l_LhKRp_2OE5gRJJyPubnZjJccLgQ/view", author: "Joaquim Dos Santos", year: 2023, genre: ["Animation", "Action"] },
+        { id: 7, name: "Moana 2", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Moana_2_Official_Poster.jpg", url: "https://drive.google.com/file/d/1khAaDGsMt8pAGqtIPJERCqM_PgpiLShO/view", author: "David Derrick Jr.", year: 2024, genre: ["Animation", "Adventure"] },
+        { id: 8, name: "The Lego Batman Movie", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/war-d619743d.jpg", url: "https://drive.google.com/file/d/1Xn4F4GNvfKOljko2ZE_JUQcBWIHhO0ql/view", author: "Chris McKay", year: 2017, genre: ["Animation", "Comedy"] },
+        { id: 9, name: "The Super Mario Bros. Movie", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/the-super-mario-bros-movie_7bqmuyso.jpg", url: "https://drive.google.com/file/d/1q2pk3lo5VIDWKQq2lCh_UTC_V9Zkv-_X/view", author: "Aaron Horvath", year: 2023, genre: ["Animation", "Adventure"] },
+        { id: 10, name: "Sonic the Hedgehog", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg", url: "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/view", author: "Jeff Fowler", year: 2020, genre: ["Action", "Adventure"] },
+        { id: 11, name: "Sonic the Hedgehog 2", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/sonic_the_hedgehog_two_ver13_xlg.avif", url: "https://drive.google.com/file/d/1cXe1a5ueZU9U_QZBU1-XpgNK0s6wi4o6/view", author: "Jeff Fowler", year: 2022, genre: ["Action", "Adventure"] },
+        { id: 12, name: "Sonic the Hedgehog 3", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/IMG_4074-966x1200.jpg", url: "https://drive.google.com/file/d/1-zHQI9U47xaDtLR9qNpHGBmk63Nnc07b/view?usp=sharing", author: "Jeff Fowler", year: 2024, genre: ["Action", "Adventure"] },
+        { id: 13, name: "Sonic OVA", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/SonicanimeVHS.jpg", url: "https://drive.google.com/file/d/1_vnuQWGnvMa4uvt9c2MVYYznq_FjgHav/view", author: "Kazunori Ikegami", year: 1996, genre: ["Animation", "Adventure"] },
+        { id: 14, name: "Teenage Mutant Ninja Turtles: Mutant Mayhem", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/teenage_mutant_ninja_turtles_mutant_mayhem.jpg", url: "https://drive.google.com/file/d/1IZNQlKBJi5HwRJDokQ-YuxfteFKgLZI5/view", author: "Jeff Rowe", year: 2023, genre: ["Animation", "Action"] },
+        { id: 15, name: "Inside Out", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71PFAPwyZRL.jpg", url: "https://drive.google.com/file/d/1BEPGPg_iR7L5QFJ91SizjlA6khwj6j1e/view", author: "Pete Docter", year: 2015, genre: ["Animation", "Family"] },
+        { id: 16, name: "Inside Out 2", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/81do41OmwiL.jpg", url: "https://drive.google.com/file/d/148ae2JtLzIZwy-AKjtRgLZPNf3vEmQOE/view", author: "Kelsey Mann", year: 2024, genre: ["Animation", "Family"] },
+        { id: 17, name: "The Lego Movie", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/s-l1200.jpg", url: "https://drive.google.com/file/d/1j2kFu1apjVp0E2_xojdiqASlQOc8RBit/view", author: "Phil Lord", year: 2014, genre: ["Animation", "Comedy"] },
+        { id: 18, name: "The Lego Movie 2", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71ghbVie4TL._UF894%2C1000_QL80_.jpg", url: "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/view", author: "Mike Mitchell", year: 2019, genre: ["Animation", "Comedy"] },
+        { id: 19, name: "The Regular Show: The Movie", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYWZlYjM3ZTAtOWE1YS00NzgyLThjYjctNzU5MDhhODExYWJhXkEyXkFqcGc%40._V1_.jpg", url: "https://drive.google.com/file/d/1q1PFmdU3DJRopHbRU5Xmg2zJxA3hjfzX/view?usp=sharing", author: "J.G. Quintel", year: 2015, genre: ["Animation", "Comedy"] },
+        { id: 20, name: "Scooby-Doo! and the Witch's Ghost", cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVsxspVRryos59ijGqPcRiyKkmxXZbHVXboKCPkcoSaJuZO6fa", url: "https://drive.google.com/file/d/1_hkjpVLPviBFV8320Drj4jjC9DfSzueB/view?usp=drive_link", author: "Jim Stenstrum", year: 1999, genre: ["Animation", "Mystery"] },
+        { id: 21, name: "Scooby-Doo", cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZIUYUCfJcsDzCnY0sMs4qyxrN8y5xtzEBeof2qalnxiTaZWm", url: "https://drive.google.com/file/d/1mwMlE9sWCZLVtQ4ljJEeLxtVrKknnfUB/view?usp=drive_link", author: "Raja Gosnell", year: 2002, genre: ["Comedy", "Family"] },
+        { id: 22, name: "Scooby-Doo 2: Monsters Unleashed", cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlIxulitrCkIyE27MEdcCv1Ib8UW0pXkNQUmda6cVNW39ztOC", url: "https://drive.google.com/file/d/1VXxo8cvPI7-zigV3FR5JP3-C2WSXvkXt/view?usp=drive_link", author: "Raja Gosnell", year: 2004, genre: ["Comedy", "Family"] },
+        { id: 23, name: "Five Nights at Freddy's", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Fnaf_Movie_Poster.png", url: "https://drive.google.com/file/d/1tyzXrXFux15AXpZxtiM61p1R1zO6NbSF/view", author: "Emma Tammi", year: 2023, genre: ["Horror", "Mystery"] },
+        { id: 24, name: "Five Nights At Freddy's 2", cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-RYGDp-9XprIb9yX1zLUOy6kpm8iUOuHbw&s", url: "https://drive.google.com/file/d/16qbI4SsI7sgv2osM_r6bGkNoj1gtjX6T/view?usp=sharing", author: "Emma Tammi", year: 2025, genre: ["Horror", "Mystery"] },
+        { id: 25, name: "Willy Wonka & the Chocolate Factory", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/91U0TwNG23L._UF894%2C1000_QL80_.jpg", url: "https://drive.google.com/file/d/1hYH5eFoapAh_9LJZwNREIta4hWBvBAdK/view", author: "Mel Stuart", year: 1971, genre: ["Family", "Fantasy"] },
+        { id: 26, name: "Oppenheimer", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Oppenheimer.jpg", url: "https://drive.google.com/file/d/1GLqywDPqfZSLmLAiKC8j2l0o52cAGP8S/view", author: "Christopher Nolan", year: 2023, genre: ["Biography", "Drama"] },
+        { id: 27, name: "The Bad Guys", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZTljOGJiNjYtYTY1Ni00Yzk4LWI2YTUtNTdhYmYyMTgyNDMxXkEyXkFqcGc%40._V1_.jpg", url: "https://drive.google.com/file/d/1Ep4I8JdvH8NlbcqxiNMA8c7U_UAOpewT/view", author: "Pierre Perifel", year: 2022, genre: ["Animation", "Comedy"] },
+        { id: 28, name: "The Bad Guys 2", cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/The_Bad_Guys_2_Official_Poster.webp", url: "https://drive.google.com/file/d/1V9yPZr0YlrSthlfU2Df3mgrs9Mcnok4q/view?usp=sharing", author: "Pierre Perifel", year: 2025, genre: ["Animation", "Comedy"] },
+        { id: 29, name: "Barbie", cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p13472534_p_v8_am.jpg", url: "https://drive.google.com/file/d/1K88LvZ6q9KRwsdiVQ72Wrh5DQqWVLkd3/view", author: "Greta Gerwig", year: 2023, genre: ["Comedy", "Fantasy"] },
+        { id: 30, name: "Iron Man", cover: "https://www.dropbox.com/scl/fi/ia7uylbhw3lrkx2qczjdk/Iron_Man_-2008_film-_poster.jpg?rlkey=d1jlafqgohehies361s2rmmrt&st=67f204bk&dl=1", url: "https://drive.google.com/file/d/1etZlXVkk2dmSbB5m2J4EK80c7FggVF4V/view", author: "Jon Favreau", year: 2008, genre: ["Action", "Adventure"] }
     ];
     
     displayMovies(movies);
