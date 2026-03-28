@@ -1,4 +1,4 @@
-﻿// Complete movie collection - ALL 381 movies
+// Complete movie collection - ALL 381 movies
 const ALL_MOVIES = [
    
     {
