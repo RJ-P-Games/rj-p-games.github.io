@@ -126,7 +126,14 @@ function openMovie(movie) {
         zoneViewer.appendChild(zoneFrame);
     }
     
-    zoneFrame.src = movie.url;
+    // Convert Google Drive view link to embed link
+    let embedUrl = movie.url;
+    if (embedUrl.includes('drive.google.com/file/d/')) {
+        const fileId = embedUrl.match(/\/d\/([^\/]+)/)[1];
+        embedUrl = `https://drive.google.com/file/d/${fileId}/preview`;
+    }
+    
+    zoneFrame.src = embedUrl;
     document.getElementById('zoneName').textContent = movie.name;
     document.getElementById('zoneId').textContent = movie.id;
     document.getElementById('zoneAuthor').textContent = `by ${movie.author} (${movie.year})`;
