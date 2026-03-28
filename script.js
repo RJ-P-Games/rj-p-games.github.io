@@ -1,5 +1,6 @@
 const container = document.getElementById('container');
 const movieContainer = document.getElementById('movieContainer');
+const tvShowContainer = document.getElementById('tvShowContainer');
 const zoneViewer = document.getElementById('zoneViewer');
 let zoneFrame = document.getElementById('zoneFrame');
 const searchBar = document.getElementById('searchBar');
@@ -45,6 +46,8 @@ function switchTab(tabName) {
     // Load appropriate content
     if (tabName === 'movies') {
         loadMovies();
+    } else if (tabName === 'tvshows') {
+        loadTVShows();
     } else {
         // Games are already loaded
         filterZones();
@@ -55,6 +58,15 @@ function loadMovies() {
     // Use the external ALL_MOVIES array from movies-data.js
     movies = ALL_MOVIES;
     displayMovies(movies);
+}
+
+// TV Shows functionality
+let tvShows = [];
+
+function loadTVShows() {
+    // Use the external ALL_TV_SHOWS array from tv-shows-data.js
+    tvShows = ALL_TV_SHOWS;
+    displayTVShows(tvShows);
 }
 
 function displayMovies(movieList) {
@@ -87,6 +99,36 @@ function displayMovies(movieList) {
     }
 }
 
+function displayTVShows(tvShowList) {
+    tvShowContainer.innerHTML = "";
+    tvShowList.forEach((show, index) => {
+        const showItem = document.createElement("div");
+        showItem.className = "zone-item";
+        showItem.onclick = () => openTVShow(show);
+        
+        const img = document.createElement("img");
+        img.src = show.imageUrl;
+        img.alt = show.title;
+        img.loading = "lazy";
+        showItem.appendChild(img);
+        
+        const button = document.createElement("button");
+        button.textContent = `${show.title} (${show.year})`;
+        button.onclick = (event) => {
+            event.stopPropagation();
+            openTVShow(show);
+        };
+        showItem.appendChild(button);
+        tvShowContainer.appendChild(showItem);
+    });
+    
+    if (tvShowContainer.innerHTML === "") {
+        tvShowContainer.innerHTML = "No TV shows found.";
+    } else {
+        document.getElementById("allTVShowsSummary").textContent = `All TV Shows (${tvShowList.length})`;
+    }
+}
+
 function openMovie(movie) {
     if (zoneFrame.contentDocument === null) {
         zoneFrame = document.createElement("iframe");
@@ -105,6 +147,38 @@ function openMovie(movie) {
     document.getElementById('zoneName').textContent = movie.name;
     document.getElementById('zoneId').textContent = movie.id;
     document.getElementById('zoneAuthor').textContent = `by ${movie.author} (${movie.year})`;
+    document.getElementById('zoneAuthor').href = "#";
+    
+    zoneViewer.style.display = "block";
+    zoneViewer.hidden = false;
+}
+
+function openTVShow(show) {
+    if (zoneFrame.contentDocument === null) {
+        zoneFrame = document.createElement("iframe");
+        zoneFrame.id = "zoneFrame";
+        zoneViewer.appendChild(zoneFrame);
+    }
+    
+    // Handle TV shows with multiple seasons/parts
+    let embedUrl = show.link || (show.links && show.links[0].url);
+    
+    if (embedUrl && embedUrl.includes('drive.google.com/drive/folders/')) {
+        // For folder links, open directly
+        zoneFrame.src = embedUrl;
+    } else if (embedUrl && embedUrl.includes('drive.google.com/file/d/')) {
+        // Convert Google Drive view link to embed link
+        const fileId = embedUrl.match(/\/d\/([^\/]+)/)[1];
+        embedUrl = `https://drive.google.com/file/d/${fileId}/preview`;
+        zoneFrame.src = embedUrl;
+    } else {
+        // Default fallback
+        zoneFrame.src = embedUrl || "#";
+    }
+    
+    document.getElementById('zoneName').textContent = show.title;
+    document.getElementById('zoneId').textContent = show.id;
+    document.getElementById('zoneAuthor').textContent = `TV Show (${show.year})`;
     document.getElementById('zoneAuthor').href = "#";
     
     zoneViewer.style.display = "block";
