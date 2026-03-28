@@ -145,93 +145,93 @@ function loadMovies() {
         },
         {
             id: 11,
+            name: "Sonic the Hedgehog 2",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/sonic_the_hedgehog_two_ver13_xlg.avif",
+            url: "https://drive.google.com/file/d/1cXe1a5ueZU9U_QZBU1-XpgNK0s6wi4o6/view",
+            author: "Jeff Fowler",
+            year: 2022,
+            genre: ["Action", "Adventure"]
+        },
+        {
+            id: 12,
+            name: "Sonic the Hedgehog 3",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/IMG_4074-966x1200.jpg",
+            url: "https://drive.google.com/file/d/1-zHQI9U47xaDtLR9qNpHGBmk63Nnc07b/view?usp=sharing",
+            author: "Jeff Fowler",
+            year: 2024,
+            genre: ["Action", "Adventure"]
+        },
+        {
+            id: 13,
+            name: "Sonic OVA",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/SonicanimeVHS.jpg",
+            url: "https://drive.google.com/file/d/1_vnuQWGnvMa4uvt9c2MVYYznq_FjgHav/view",
+            author: "Kazunori Ikegami",
+            year: 1996,
+            genre: ["Animation", "Adventure"]
+        },
+        {
+            id: 14,
+            name: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/teenage_mutant_ninja_turtles_mutant_mayhem.jpg",
+            url: "https://drive.google.com/file/d/1IZNQlKBJi5HwRJDokQ-YuxfteFKgLZI5/view",
+            author: "Jeff Rowe",
+            year: 2023,
+            genre: ["Animation", "Action"]
+        },
+        {
+            id: 15,
+            name: "Inside Out",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71PFAPwyZRL.jpg",
+            url: "https://drive.google.com/file/d/1BEPGPg_iR7L5QFJ91SizjlA6khwj6j1e/view",
+            author: "Pete Docter",
+            year: 2015,
+            genre: ["Animation", "Family"]
+        },
+        {
+            id: 16,
+            name: "Inside Out 2",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/81do41OmwiL.jpg",
+            url: "https://drive.google.com/file/d/148ae2JtLzIZwy-AKjtRgLZPNf3vEmQOE/view",
+            author: "Kelsey Mann",
+            year: 2024,
+            genre: ["Animation", "Family"]
+        },
+        {
+            id: 17,
+            name: "The Lego Movie",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/s-l1200.jpg",
+            url: "https://drive.google.com/file/d/1j2kFu1apjVp0E2_xojdiqASlQOc8RBit/view",
+            author: "Phil Lord",
+            year: 2014,
+            genre: ["Animation", "Comedy"]
+        },
+        {
+            id: 18,
+            name: "The Lego Movie 2",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71ghbVie4TL._UF894%2C1000_QL80_.jpg",
+            url: "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/view",
+            author: "Mike Mitchell",
+            year: 2019,
+            genre: ["Animation", "Comedy"]
+        },
+        {
+            id: 19,
+            name: "The Regular Show: The Movie",
+            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYWZlYjM3ZTAtOWE1YS00NzgyLThjYjctNzU5MDhhODExYWJhXkEyXkFqcGc%40._V1_.jpg",
+            url: "https://drive.google.com/file/d/1q1PFmdU3DJRopHbRU5Xmg2zJxA3hjfzX/view?usp=sharing",
+            author: "J.G. Quintel",
+            year: 2015,
+            genre: ["Animation", "Comedy"]
+        },
+        {
+            id: 20,
             name: "Five Nights at Freddy's",
             cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Fnaf_Movie_Poster.png",
             url: "https://drive.google.com/file/d/1tyzXrXFux15AXpZxtiM61p1R1zO6NbSF/view",
             author: "Emma Tammi",
             year: 2023,
             genre: ["Horror", "Mystery"]
-        },
-        {
-            id: 12,
-            name: "Oppenheimer",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Oppenheimer.jpg",
-            url: "https://drive.google.com/file/d/1GLqywDPqfZSLmLAiKC8j2l0o52cAGP8S/view",
-            author: "Christopher Nolan",
-            year: 2023,
-            genre: ["Biography", "Drama"]
-        },
-        {
-            id: 13,
-            name: "Barbie",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p13472534_p_v8_am.jpg",
-            url: "https://drive.google.com/file/d/1K88LvZ6q9KRwsdiVQ72Wrh5DQqWVLkd3/view",
-            author: "Greta Gerwig",
-            year: 2023,
-            genre: ["Comedy", "Fantasy"]
-        },
-        {
-            id: 14,
-            name: "The Flash",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/The_Flash.jpg",
-            url: "https://drive.google.com/file/d/1ApUHMkZM-j3vM-rSG-kvjk3KuvJNAsXp/view",
-            author: "Andy Muschietti",
-            year: 2023,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 15,
-            name: "Black Panther",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/black-panther-poster.jpg",
-            url: "https://drive.google.com/file/d/1wdUOiz7tI3R5vTz779h7CesAW5h0kUh1/view",
-            author: "Ryan Coogler",
-            year: 2018,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 16,
-            name: "Iron Man",
-            cover: "https://www.dropbox.com/scl/fi/ia7uylbhw3lrkx2qczjdk/Iron_Man_-2008_film-_poster.jpg?rlkey=d1jlafqgohehies361s2rmmrt&st=67f204bk&dl=1",
-            url: "https://drive.google.com/file/d/1etZlXVkk2dmSbB5m2J4EK80c7FggVF4V/view",
-            author: "Jon Favreau",
-            year: 2008,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 17,
-            name: "Avengers: Infinity War",
-            cover: "https://www.dropbox.com/scl/fi/n0m9lddipro8al8at1pp5/Avengers_Infinity_War_poster.jpg?rlkey=y8pm491al2jezeuk5g5velk2b&st=gez6ur5v&dl=1",
-            url: "https://drive.google.com/file/d/1zpl7Dngm7ESW_yLZvcQMm9AhmR1izyus/view?usp=sharing",
-            author: "Anthony Russo",
-            year: 2018,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 18,
-            name: "Avengers: Endgame",
-            cover: "https://www.dropbox.com/scl/fi/6960dcl1s0tn4g27f0oim/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM-._V1_FMjpg_UX1000_.jpg?rlkey=c7je20mvdls88tyr6rv5cpvqc&st=j1chpl50&dl=1",
-            url: "https://drive.google.com/file/d/1bqXaAnYlzvDN8Ic21OTHu7mQ2eBsEBha/view?usp=sharing",
-            author: "Anthony Russo",
-            year: 2019,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 19,
-            name: "Spider-Man",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/ourazguupfx71.jpg",
-            url: "https://drive.google.com/file/d/1sqWGrmbGc5lBmoFbtfMSIaqb60eXppvF/view",
-            author: "Sam Raimi",
-            year: 2002,
-            genre: ["Action", "Adventure"]
-        },
-        {
-            id: 20,
-            name: "The Wild Robot",
-            cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-            url: "https://drive.google.com/file/d/1_N9iHDAM3RbU2a0GTfgcNXDGuZDT_yZ-/view",
-            author: "Chris Sanders",
-            year: 2024,
-            genre: ["Animation", "Adventure"]
         }
     ];
     
