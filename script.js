@@ -107,13 +107,13 @@ function displayTVShows(tvShowList) {
         showItem.onclick = () => openTVShow(show);
         
         const img = document.createElement("img");
-        img.src = show.imageUrl;
-        img.alt = show.title;
+        img.src = show.cover;
+        img.alt = show.name;
         img.loading = "lazy";
         showItem.appendChild(img);
         
         const button = document.createElement("button");
-        button.textContent = `${show.title} (${show.year})`;
+        button.textContent = `${show.name} (${show.year})`;
         button.onclick = (event) => {
             event.stopPropagation();
             openTVShow(show);
@@ -160,8 +160,8 @@ function openTVShow(show) {
         zoneViewer.appendChild(zoneFrame);
     }
     
-    // Handle TV shows with multiple seasons/parts
-    let embedUrl = show.link || (show.links && show.links[0].url);
+    // Handle TV shows with single URL
+    let embedUrl = show.url;
     
     if (embedUrl && embedUrl.includes('drive.google.com/drive/folders/')) {
         // For folder links, open directly
@@ -176,7 +176,7 @@ function openTVShow(show) {
         zoneFrame.src = embedUrl || "#";
     }
     
-    document.getElementById('zoneName').textContent = show.title;
+    document.getElementById('zoneName').textContent = show.name;
     document.getElementById('zoneId').textContent = show.id;
     document.getElementById('zoneAuthor').textContent = `TV Show (${show.year})`;
     document.getElementById('zoneAuthor').href = "#";
