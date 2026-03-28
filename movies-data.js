@@ -4,7 +4,7 @@ const ALL_MOVIES = [
     {
         id: 1,
         name: "Deadpool and Wolverine",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/dp3_1sht_digital_srgb_ka_swords_v5_resized.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Deadpool+and+Wolverine+(2024)",
         url: "https://drive.google.com/file/d/1B_eiKUt7N5OxyUN9c37LG0pxcErP4yJ6/view",
         author: "Unknown",
         year: 2024,
@@ -13,7 +13,7 @@ const ALL_MOVIES = [
     {
         id: 2,
         name: "Captain America: The First Avenger",
-        cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/CaptainAmericaTheFirstAvengerComicConPoster.webp",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Captain+America+The+First+Avenger+(2011)",
         url: "https://drive.google.com/file/d/1n_-YoXC2sFts08F4W2inaW1AGobt1C2y/view?usp=sharing",
         author: "Unknown",
         year: 2011,
@@ -22,7 +22,7 @@ const ALL_MOVIES = [
     {
         id: 3,
         name: "Captain America: Brave New World",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/e72a581c-12cb-4e03-ae93-a1ebcb7d07fa.sized-1000x1000.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Captain+America+Brave+New+World+(2025)",
         url: "https://drive.google.com/file/d/1pJ5N0z8bQFpqeMx2UrZqrU1526ygzxDm/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -31,7 +31,7 @@ const ALL_MOVIES = [
     {
         id: 4,
         name: "Dog Man",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/redraw-of-the-dog-man-movie-poster-in-the-comic-book-covers-v0-6fajo4f1dmbe1.jpeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Dog+Man+(2025)",
         url: "https://drive.google.com/file/d/1fGpb8UBbynGx9NaHDc5wPzYjjUAD7gLW/view",
         author: "Unknown",
         year: 2025,
@@ -40,7 +40,7 @@ const ALL_MOVIES = [
     {
         id: 5,
         name: "Spider-Man: Into the Spider-Verse",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Spider-Man+Into+the+Spider-Verse+(2018)",
         url: "https://drive.google.com/file/d/1V3Bq0lrDQUxJay5DDs3gK69ZvRNb1j2u/view",
         author: "Unknown",
         year: 2018,
@@ -49,7 +49,7 @@ const ALL_MOVIES = [
     {
         id: 6,
         name: "Spider-Man: Across the Spider-Verse",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/spider-man-across-the-spider-verse-poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Spider-Man+Across+the+Spider-Verse+(2023)",
         url: "https://drive.google.com/file/d/1Sd1l_LhKRp_2OE5gRJJyPubnZjJccLgQ/view",
         author: "Unknown",
         year: 2023,
@@ -58,7 +58,7 @@ const ALL_MOVIES = [
     {
         id: 7,
         name: "Moana 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Moana_2_Official_Poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Moana+2+(2024)",
         url: "https://drive.google.com/file/d/1khAaDGsMt8pAGqtIPJERCqM_PgpiLShO/view",
         author: "Unknown",
         year: 2024,
@@ -67,7 +67,7 @@ const ALL_MOVIES = [
     {
         id: 8,
         name: "The Lego Batman Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/war-d619743d.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=The+Lego+Batman+Movie+(2017)",
         url: "https://drive.google.com/file/d/1Xn4F4GNvfKOljko2ZE_JUQcBWIHhO0ql/view",
         author: "Unknown",
         year: 2017,
@@ -76,7 +76,7 @@ const ALL_MOVIES = [
     {
         id: 9,
         name: "The Super Mario Bros. Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/the-super-mario-bros-movie_7bqmuyso.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=The+Super+Mario+Bros+Movie+(2023)",
         url: "https://drive.google.com/file/d/1q2pk3lo5VIDWKQq2lCh_UTC_V9Zkv-_X/view",
         author: "Unknown",
         year: 2023,
@@ -85,7 +85,7 @@ const ALL_MOVIES = [
     {
         id: 10,
         name: "Sonic the Hedgehog",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Sonic+the+Hedgehog+(2020)",
         url: "https://drive.google.com/file/d/1h1hi-3Hn1awll6u51WQnGjkHqm3uJejF/view",
         author: "Unknown",
         year: 2020,
@@ -94,7 +94,7 @@ const ALL_MOVIES = [
     {
         id: 11,
         name: "Sonic the Hedgehog 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/sonic_the_hedgehog_two_ver13_xlg.avif",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Sonic+the+Hedgehog+2+(2022)",
         url: "https://drive.google.com/file/d/1cXe1a5ueZU9U_QZBU1-XpgNK0s6wi4o6/view",
         author: "Unknown",
         year: 2022,
@@ -103,7 +103,7 @@ const ALL_MOVIES = [
     {
         id: 12,
         name: "Sonic the Hedgehog 3",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/IMG_4074-966x1200.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Sonic+the+Hedgehog+3+(2024)",
         url: "https://drive.google.com/file/d/1-zHQI9U47xaDtLR9qNpHGBmk63Nnc07b/view?usp=sharing",
         author: "Unknown",
         year: 2024,
@@ -112,7 +112,7 @@ const ALL_MOVIES = [
     {
         id: 13,
         name: "Sonic OVA",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/MovieImages@main/SonicanimeVHS.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Sonic+OVA+(1996)",
         url: "https://drive.google.com/file/d/1_vnuQWGnvMa4uvt9c2MVYYznq_FjgHav/view",
         author: "Unknown",
         year: 1996,
@@ -121,7 +121,7 @@ const ALL_MOVIES = [
     {
         id: 14,
         name: "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/teenage_mutant_ninja_turtles_mutant_mayhem.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=TMNT+Mutant+Mayhem+(2023)",
         url: "https://drive.google.com/file/d/1IZNQlKBJi5HwRJDokQ-YuxfteFKgLZI5/view",
         author: "Unknown",
         year: 2023,
@@ -130,7 +130,7 @@ const ALL_MOVIES = [
     {
         id: 15,
         name: "Inside Out",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71PFAPwyZRL.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Inside+Out+(2015)",
         url: "https://drive.google.com/file/d/1BEPGPg_iR7L5QFJ91SizjlA6khwj6j1e/view",
         author: "Unknown",
         year: 2015,
@@ -139,7 +139,7 @@ const ALL_MOVIES = [
     {
         id: 16,
         name: "Inside Out 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/81do41OmwiL.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Inside+Out+2+(2024)",
         url: "https://drive.google.com/file/d/148ae2JtLzIZwy-AKjtRgLZPNf3vEmQOE/view",
         author: "Unknown",
         year: 2024,
@@ -148,7 +148,7 @@ const ALL_MOVIES = [
     {
         id: 17,
         name: "The Lego Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/s-l1200.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=The+Lego+Movie+(2014)",
         url: "https://drive.google.com/file/d/1j2kFu1apjVp0E2_xojdiqASlQOc8RBit/view",
         author: "Unknown",
         year: 2014,
@@ -157,7 +157,7 @@ const ALL_MOVIES = [
     {
         id: 18,
         name: "The Lego Movie 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/71ghbVie4TL._UF894%2C1000_QL80_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=The+Lego+Movie+2+(2019)",
         url: "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/view",
         author: "Unknown",
         year: 2019,
@@ -166,7 +166,7 @@ const ALL_MOVIES = [
     {
         id: 19,
         name: "The Regular Show: The Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYWZlYjM3ZTAtOWE1YS00NzgyLThjYjctNzU5MDhhODExYWJhXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Regular+Show+Movie+(2015)",
         url: "https://drive.google.com/file/d/1q1PFmdU3DJRopHbRU5Xmg2zJxA3hjfzX/view?usp=sharing",
         author: "Unknown",
         year: 2015,
@@ -175,7 +175,7 @@ const ALL_MOVIES = [
     {
         id: 20,
         name: "Scooby-Doo! and the Witch's Ghost",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVsxspVRryos59ijGqPcRiyKkmxXZbHVXboKCPkcoSaJuZO6fa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_hkjpVLPviBFV8320Drj4jjC9DfSzueB/view?usp=drive_link",
         author: "Unknown",
         year: 1999,
@@ -184,7 +184,7 @@ const ALL_MOVIES = [
     {
         id: 21,
         name: "Scooby-Doo",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZIUYUCfJcsDzCnY0sMs4qyxrN8y5xtzEBeof2qalnxiTaZWm",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Scooby-Doo+(2002)",
         url: "https://drive.google.com/file/d/1mwMlE9sWCZLVtQ4ljJEeLxtVrKknnfUB/view?usp=drive_link",
         author: "Unknown",
         year: 2002,
@@ -193,7 +193,7 @@ const ALL_MOVIES = [
     {
         id: 22,
         name: "Scooby-Doo 2: Monsters Unleashed",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlIxulitrCkIyE27MEdcCv1Ib8UW0pXkNQUmda6cVNW39ztOC",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1VXxo8cvPI7-zigV3FR5JP3-C2WSXvkXt/view?usp=drive_link",
         author: "Unknown",
         year: 2004,
@@ -202,7 +202,7 @@ const ALL_MOVIES = [
     {
         id: 23,
         name: "Scooby-Doo! and Krypto, Too!",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAHISH3_gLAP4ACIZXSRtTxXMbFsb9Rya89s1iX_szQAkiOuQn",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1A3KkhmxtAok0WhO2iaSR4GPwOWBs_T6w/view?usp=drive_link",
         author: "Unknown",
         year: 2023,
@@ -211,7 +211,7 @@ const ALL_MOVIES = [
     {
         id: 24,
         name: "Scooby-Doo! Music of the Vampire",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRE3QdVIF94LtWH8Wu2-abqOT1LFpzdaHU24l-Tg1a7FLoZR-z",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1w88R5d11KA2RHZjDMF44PGiVTC-aSOVU/view?usp=drive_link",
         author: "Unknown",
         year: 2012,
@@ -220,7 +220,7 @@ const ALL_MOVIES = [
     {
         id: 25,
         name: "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTx5NAhcCnK8vduTG0z5PP3Nxc79t5Pa8yhcAs0uJQgIZrspB",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Zh_wuLiteAQpM9MYo3CKdmjvPv11QDtB/view?usp=drive_link",
         author: "Unknown",
         year: 2021,
@@ -229,7 +229,7 @@ const ALL_MOVIES = [
     {
         id: 26,
         name: "Scooby-Doo! Frankencreepy",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToCujbfSAL1lC5eAoUyH72vTO9e_JmlU8IaATBfw5tviqYavpc",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16C2WJoTqTo_6uk28EHxGW0ZP3IhHv8XW/view?usp=drive_link",
         author: "Unknown",
         year: 2014,
@@ -238,7 +238,7 @@ const ALL_MOVIES = [
     {
         id: 27,
         name: "Scooby-Doo! Haunted Holidays",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1REfyPBNIkPfuvSHfXgsTBEzpfZcuIGLrt0fYlWj0wEKHrpdCpj-rlMnj3ktLr_uVhvFVw&s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ZfMbvwDt282Fy6R0lkPxxdg80sdGInqt/view?usp=drive_link",
         author: "Unknown",
         year: 2012,
@@ -247,7 +247,7 @@ const ALL_MOVIES = [
     {
         id: 28,
         name: "Scooby-Doo! in Where's My Mummy?",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB71tzCjWmiG8bVzzhS0Q-uaXu_Wt3FTjyQMrcH9tFNafugXwv",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1xsSHSR4XkvHqsJBgFVxBDnBgfS24JUvA/view?usp=drive_link",
         author: "Unknown",
         year: 2005,
@@ -256,7 +256,7 @@ const ALL_MOVIES = [
     {
         id: 29,
         name: "Scooby-Doo! Moon Monster Madness",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-utTMNm14-vPMY4LJFQ3KPKqd31bhim9szqIqxMAlrSBiIqN",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1uCF6cq6_ZVy5TSNX2FRQAC923Q7qMW1J/view?usp=drive_link",
         author: "Unknown",
         year: 2015,
@@ -265,7 +265,7 @@ const ALL_MOVIES = [
     {
         id: 30,
         name: "Scooby-Doo! and the Legend of the Vampire",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPQAIrKJx6dJ9ZTqcZdj73vbfADGTft5Ct0boJczZvuAoCQ5k",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1V7dZ668NX5phvFK2jK_TnLH4ouoTSwxp/view?usp=drive_link",
         author: "Unknown",
         year: 2003,
@@ -274,7 +274,7 @@ const ALL_MOVIES = [
     {
         id: 31,
         name: "Scooby-Doo and the Cyber Chase",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSirsUYg6wGyqE1hsBWtjHo7ZijQ4KClRqBxtFZtbWelCXJ4wD2",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Yy740jq-YYGWMqLOMafB0ihcL11HVdO4/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -283,7 +283,7 @@ const ALL_MOVIES = [
     {
         id: 32,
         name: "Scooby-Doo and the Alien Invaders",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP1C4j5gz9wMG30Yt4B-83ysgcNXheQGLTQkfXs33DYtM6a2Jl",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ESXgNjFYNYCwCsoMRxPRlZuhNNYaxZDz/view?usp=drive_link",
         author: "Unknown",
         year: 2000,
@@ -292,7 +292,7 @@ const ALL_MOVIES = [
     {
         id: 33,
         name: "Scooby-Doo Goes Hollywood",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgpQWv2QJVG7bQw7iuJae6Qv2O_SiW8PrM6L4IM_s5KsbxkTb",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GkXfdC_nRSW_7esZeydw59kPjHhc7m3z/view?usp=drive_link",
         author: "Unknown",
         year: 1979,
@@ -301,7 +301,7 @@ const ALL_MOVIES = [
     {
         id: 34,
         name: "Five Nights at Freddy's",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Fnaf_Movie_Poster.png",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1tyzXrXFux15AXpZxtiM61p1R1zO6NbSF/view",
         author: "Unknown",
         year: 2023,
@@ -310,7 +310,7 @@ const ALL_MOVIES = [
     {
         id: 35,
         name: "Five Nights At Freddy's 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-RYGDp-9XprIb9yX1zLUOy6kpm8iUOuHbw&s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16qbI4SsI7sgv2osM_r6bGkNoj1gtjX6T/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -319,7 +319,7 @@ const ALL_MOVIES = [
     {
         id: 36,
         name: "Willy Wonka & the Chocolate Factory",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/91U0TwNG23L._UF894%2C1000_QL80_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1hYH5eFoapAh_9LJZwNREIta4hWBvBAdK/view",
         author: "Unknown",
         year: 1971,
@@ -328,7 +328,7 @@ const ALL_MOVIES = [
     {
         id: 37,
         name: "Oppenheimer",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Oppenheimer.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GLqywDPqfZSLmLAiKC8j2l0o52cAGP8S/view",
         author: "Unknown",
         year: 2023,
@@ -337,7 +337,7 @@ const ALL_MOVIES = [
     {
         id: 38,
         name: "The Bad Guys",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZTljOGJiNjYtYTY1Ni00Yzk4LWI2YTUtNTdhYmYyMTgyNDMxXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Ep4I8JdvH8NlbcqxiNMA8c7U_UAOpewT/view",
         author: "Unknown",
         year: 2022,
@@ -346,7 +346,7 @@ const ALL_MOVIES = [
     {
         id: 39,
         name: "The Bad Guys 2",
-        cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/The_Bad_Guys_2_Official_Poster.webp",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1V9yPZr0YlrSthlfU2Df3mgrs9Mcnok4q/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -355,7 +355,7 @@ const ALL_MOVIES = [
     {
         id: 40,
         name: "Barbie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p13472534_p_v8_am.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1K88LvZ6q9KRwsdiVQ72Wrh5DQqWVLkd3/view",
         author: "Unknown",
         year: 2023,
@@ -391,7 +391,7 @@ const ALL_MOVIES = [
     {
         id: 44,
         name: "Teen Titans: Trouble in Tokyo",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNTc0NjM3NTI3NV5BMl5BanBnXkFtZTgwODE4NjAwNzE%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1LZ4gHDxFw3OAbO55sfd0xDMyYTF_91sT/view",
         author: "Unknown",
         year: 2006,
@@ -400,7 +400,7 @@ const ALL_MOVIES = [
     {
         id: 45,
         name: "The Flash",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/The_Flash.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ApUHMkZM-j3vM-rSG-kvjk3KuvJNAsXp/view",
         author: "Unknown",
         year: 2023,
@@ -409,7 +409,7 @@ const ALL_MOVIES = [
     {
         id: 46,
         name: "Who Framed Roger Rabbit",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Who-Framed-Roger-Rabbit-Poster-scaled.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13qCLa-UbWgLKDkm5EYs7y3-n5NVx7-73/view",
         author: "Unknown",
         year: 1988,
@@ -418,7 +418,7 @@ const ALL_MOVIES = [
     {
         id: 47,
         name: "Black Panther",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/black-panther-poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1wdUOiz7tI3R5vTz779h7CesAW5h0kUh1/view",
         author: "Unknown",
         year: 2018,
@@ -427,7 +427,7 @@ const ALL_MOVIES = [
     {
         id: 48,
         name: "Diary of a Wimpy Kid",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p7876903_p_v8_ar.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Ue1CO7ytynvfWaucCDckWaH4smgpB28e/view",
         author: "Unknown",
         year: 2010,
@@ -445,7 +445,7 @@ const ALL_MOVIES = [
     {
         id: 50,
         name: "Diary of a Wimpy Kid: Dog Days",
-        cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/Diary_of_a_Wimpy_Kid_-_Dog_Days_movie_poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/0B6fv-OkwXRTzZ090UHlWcHY2dkk/view?resourcekey=0-TgoMzBEyMorySYhDqB9uGA",
         author: "Unknown",
         year: 2012,
@@ -454,7 +454,7 @@ const ALL_MOVIES = [
     {
         id: 51,
         name: "Captain America: The Winter Soldier",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1TanQJC8ws1tk_dyW05HzfNtaBgBxKPPx/view?usp=drivesdk",
         author: "Unknown",
         year: 2014,
@@ -463,7 +463,7 @@ const ALL_MOVIES = [
     {
         id: 52,
         name: "Ford v Ferrari",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1NPB0oCsIuiPAc471b_XOGDnchbCZ72yh/view",
         author: "Unknown",
         year: 2019,
@@ -472,7 +472,7 @@ const ALL_MOVIES = [
     {
         id: 53,
         name: "Wicked",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1fG4xZ8p6mptdbf-Vji5rhlIoXeKG6Dcd/view",
         author: "Unknown",
         year: 2024,
@@ -481,7 +481,7 @@ const ALL_MOVIES = [
     {
         id: 54,
         name: "Wicked: For Good",
-        cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/vertical_646a9560-ea7c-45f4-837a-70a1a748f21d.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/15_hovtVOgCS5m-YgrtbqE7l21Dbcm_Xg/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -490,7 +490,7 @@ const ALL_MOVIES = [
     {
         id: 55,
         name: "Minecraft: The Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/wii2fLImjhitYMaiVNvrH7NGdS0.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1jpCB0o5aQI1pam7Eg4GW0VEGKi6z-RHB/view",
         author: "Unknown",
         year: 2025,
@@ -499,7 +499,7 @@ const ALL_MOVIES = [
     {
         id: 56,
         name: "Mufasa: The Lion King",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Mufasa.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1yQk-dgii93W2ZWfBxCORDQUj7bqzj7gr/view",
         author: "Unknown",
         year: 2024,
@@ -508,7 +508,7 @@ const ALL_MOVIES = [
     {
         id: 57,
         name: "The Wild Robot",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_N9iHDAM3RbU2a0GTfgcNXDGuZDT_yZ-/view",
         author: "Unknown",
         year: 2024,
@@ -517,7 +517,7 @@ const ALL_MOVIES = [
     {
         id: 58,
         name: "South Park: Joining the Panderverse",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/South-Park-Joining-the-Panderverse-2023-movie-poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/18WPSLAkLd7xTWJJonaCoRYKvkYJWw981/view",
         author: "Unknown",
         year: 2023,
@@ -535,7 +535,7 @@ const ALL_MOVIES = [
     {
         id: 60,
         name: "Terrifier",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNzY5ZTAxZDgtN2E3Zi00NTUxLWJmZDUtZTliMTA3Y2Y1NjU0XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_pQ3kbz_a8l3B7SKfdP9dYQwKax0WHUD/view",
         author: "Unknown",
         year: 2016,
@@ -544,7 +544,7 @@ const ALL_MOVIES = [
     {
         id: 61,
         name: "Terrifier 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTUyZWM1MDgtMGZiZi00OWZlLTgwNzItZGU3NTkwN2I4OWNiXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_Jjo7rOcCkYt3UryVkV2XvTfrL4QvHTE/view",
         author: "Unknown",
         year: 2022,
@@ -553,7 +553,7 @@ const ALL_MOVIES = [
     {
         id: 62,
         name: "Terrifier 3",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/T3_7627.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sAj4FqfEIzHPIW7ZUPGGSOFTTaJr5AGI/view",
         author: "Unknown",
         year: 2024,
@@ -562,7 +562,7 @@ const ALL_MOVIES = [
     {
         id: 63,
         name: "The Day The Earth Blew Up",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BOTgxODk4OTQtMjc2MC00NGRmLWJlMmMtNTdlZjI1NDE0NzE0XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1EDmMpex-Xs1V9CT4J4UarVDEs0zRyLqt/view?usp=sharing",
         author: "Unknown",
         year: 2024,
@@ -589,7 +589,7 @@ const ALL_MOVIES = [
     {
         id: 66,
         name: "Migration",
-        cover: "https://github.com/dino-cmxy/Chillkirbcentrall/blob/main/MV5BYjdlYWJjZTctODViZS00ODVlLTljOTEtOTZhYWZhZTRkZDM1XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1pV4ujRFH3wIRE0GPZAWeEMFmnLMzvwYE/view",
         author: "Unknown",
         year: 2023,
@@ -625,7 +625,7 @@ const ALL_MOVIES = [
     {
         id: 70,
         name: "Beavis and Butt-Head Do America",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNzA2NjczNmEtYjYxYi00ZjE2LTkzYTctYzhkZDdmMjlkY2FmXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BTKq8RC65IOZVgI0VfdRekLzVY_SMKQ_/view?usp=sharing",
         author: "Unknown",
         year: 1996,
@@ -634,7 +634,7 @@ const ALL_MOVIES = [
     {
         id: 71,
         name: "American Psycho",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/s-l1200%20(1).jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1XLbBFM6yQ48V1yXIfrenbhpMyZeUryV7/view",
         author: "Unknown",
         year: 2000,
@@ -679,7 +679,7 @@ const ALL_MOVIES = [
     {
         id: 76,
         name: "South Park: Bigger, Longer & Uncut",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BOTUzYmVmNDEtMTdkYy00MDdjLWE2OWUtZGZjY2FjM2I4MzFmXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1lS4FEithc1bSHzfCW-Yt3cpeQOloaZBc/view",
         author: "Unknown",
         year: 1999,
@@ -688,7 +688,7 @@ const ALL_MOVIES = [
     {
         id: 77,
         name: "South Park: Post Covid",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNjNiOWJhZTQtYzBkNi00NzU3LWE2MzktOWIyMzE5YTExODJmXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1w9f4WudGBkXyYTWReinBq7QqaWfHfZTo/view",
         author: "Unknown",
         year: 2021,
@@ -715,7 +715,7 @@ const ALL_MOVIES = [
     {
         id: 80,
         name: "Deadpool 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNGY3N2ZhYmMtYTlmYi00ZWIzLWJiZWMtMjgxMjljYTk3MDAwXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1tF1C-2tktolFSAJaLG0C2sE_2sGyH3YI/view",
         author: "Unknown",
         year: 2018,
@@ -742,7 +742,7 @@ const ALL_MOVIES = [
     {
         id: 83,
         name: "Madea's Destination Wedding",
-        cover: "https://cdn.jsdelivr.net/gh/samtheskeleton/random-things@main/MV5BYzRkM2JmM2EtNTgzZi00MzdlLTkxM2ItNTlhNmQzZjM2NjA2XkEyXkFqcGc@._V1_QL75_UY281_CR19,0,190,281_ (1).jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Mb8GuPdo9NaUOYnY5Cqyi9myVAydYtRl/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -760,7 +760,7 @@ const ALL_MOVIES = [
     {
         id: 85,
         name: "Smile 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1PeOUtsdJfWRqJvGwBhRmeBc2fLiQyTJY/view",
         author: "Unknown",
         year: 2024,
@@ -769,7 +769,7 @@ const ALL_MOVIES = [
     {
         id: 86,
         name: "Twisters",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12UeDOq7tCcbfvEo_EtzkL3Gxho45UOl4/view",
         author: "Unknown",
         year: 2024,
@@ -832,7 +832,7 @@ const ALL_MOVIES = [
     {
         id: 93,
         name: "Us",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/us-adv1sheet-rgb-2-small-5c1c422026bb0-1-5d3a4e5f87325-1.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ij57VuW6Bjxq713L53oKgAIx4iR8yoVB/view",
         author: "Unknown",
         year: 2019,
@@ -841,7 +841,7 @@ const ALL_MOVIES = [
     {
         id: 94,
         name: "Transformers One",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/transformers-one-2024-film-official-poster.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/10cwJT2ssiHVBeRWMdEVHKt0bhk8PVOHY/view",
         author: "Unknown",
         year: 2024,
@@ -859,7 +859,7 @@ const ALL_MOVIES = [
     {
         id: 96,
         name: "Mortal Kombat",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNmRmN2I5M2EtNDA1Ny00N2ZmLWE3YWYtMjQ1NTFjY2Q4NWM5XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1temXH9CFHCd7gjIsu8TMCFiqxMy8jXfj/view",
         author: "Unknown",
         year: 2021,
@@ -868,7 +868,7 @@ const ALL_MOVIES = [
     {
         id: 97,
         name: "Major Payne",
-        cover: "https://github.com/dino-cmxy/Chillkirbcentrall/blob/main/MV5BYTY5MGUxNjUtM2VjNy00MWQxLTg0NjEtMGU4NTZiYjhlOGJlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1HOBF8qYxnEXjbjouFThL4B3ttoBiNUOY/view",
         author: "Unknown",
         year: 1995,
@@ -886,7 +886,7 @@ const ALL_MOVIES = [
     {
         id: 99,
         name: "Zootopia",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p11993845_p_v8_aq.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1HYeIrbf8A-vfvJsvYP59AQzG9l8nt03h/view",
         author: "Unknown",
         year: 2016,
@@ -904,7 +904,7 @@ const ALL_MOVIES = [
     {
         id: 101,
         name: "The SpongeBob SquarePants Movie",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzF33bj8wuOJgcH2rvLYHXAxQt2FgW4YqXLn46xOAPLDLTQucJ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/11mVla6Y3qLX4pplfnxMavSczJ200_8dl/view?usp=drive_link",
         author: "Unknown",
         year: 2004,
@@ -922,7 +922,7 @@ const ALL_MOVIES = [
     {
         id: 103,
         name: "Plankton: The Movie",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTeAhF9MjfBqFF9Y5D31MZ8s_tT8iuef18F1416xkWnSl5vW9",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GhJnl35m05XYpjooWoxeg0lw54VpjCEx/view?usp=drive_link",
         author: "Unknown",
         year: 2025,
@@ -931,7 +931,7 @@ const ALL_MOVIES = [
     {
         id: 104,
         name: "Superman",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1nO646VaJQBN725tPVe9TLFnLBFPJ-jbL/view?usp=sharing",
         author: "Unknown",
         year: 2025,
@@ -958,7 +958,7 @@ const ALL_MOVIES = [
     {
         id: 107,
         name: "Spider-Man",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/ourazguupfx71.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sqWGrmbGc5lBmoFbtfMSIaqb60eXppvF/view",
         author: "Unknown",
         year: 2002,
@@ -967,7 +967,7 @@ const ALL_MOVIES = [
     {
         id: 108,
         name: "Spider-Man 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p34442_p_v10_aq.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1yV7ZmEkfOVOLdV51wN6vSeDf3_tQqBvf/view",
         author: "Unknown",
         year: 2004,
@@ -976,7 +976,7 @@ const ALL_MOVIES = [
     {
         id: 109,
         name: "Spider-Man 3",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ExTfRPC3YGmCSg8W2uFSYkUMw7a1vcTR/view",
         author: "Unknown",
         year: 2007,
@@ -994,7 +994,7 @@ const ALL_MOVIES = [
     {
         id: 111,
         name: "The Amazing Spider-Man 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BODM1MWMwOTktMzdlNS00NWUzLWI4ZDItYmY5MGNkYmIzZjg0XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1hnYa-Pkxqu6Qhhp56QXE34Rnctia_3yw/view",
         author: "Unknown",
         year: 2014,
@@ -1003,7 +1003,7 @@ const ALL_MOVIES = [
     {
         id: 112,
         name: "Spider-Man: Homecoming",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1jGHx1i3EqHKmQmE42APmxUk4bYHrINQ_/view",
         author: "Unknown",
         year: 2017,
@@ -1012,7 +1012,7 @@ const ALL_MOVIES = [
     {
         id: 113,
         name: "Spider-Man: Far From Home",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/primer-poster-spider-man-far-from-home-original.jpeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1vPNUTkubVVmguVfwstRQm5xgbkRRii6z/view",
         author: "Unknown",
         year: 2019,
@@ -1030,7 +1030,7 @@ const ALL_MOVIES = [
     {
         id: 115,
         name: "Venom",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScPG3UmTgVKpeabQe4MFFwTXMmk4c1sijxO-USZQ0D6O8WGZk4",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1iRN197XeJCQnZGza599ZTXsayEG1mdRB/view",
         author: "Unknown",
         year: 2018,
@@ -1039,7 +1039,7 @@ const ALL_MOVIES = [
     {
         id: 116,
         name: "Venom: Let There Be Carnage",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkQKSmvEv3JJet-PWG11mRbpM5527J36mfNZPjA2TaHYcAo0V8",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1N6kL0SF4qR6wFpwfGIZUZjFnz3lQDGGz/view",
         author: "Unknown",
         year: 2021,
@@ -1048,7 +1048,7 @@ const ALL_MOVIES = [
     {
         id: 117,
         name: "Toy Story",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1fW6Ov5NIaRh4h78-qBpWeln_Vs9oEXOQ/view?usp=sharing",
         author: "Unknown",
         year: 1995,
@@ -1057,7 +1057,7 @@ const ALL_MOVIES = [
     {
         id: 118,
         name: "Toy Story 2",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1k3RVDc_Vah1H9lFsXQZJ6mE3KqdDcK_T/view?usp=sharing",
         author: "Unknown",
         year: 1999,
@@ -1102,7 +1102,7 @@ const ALL_MOVIES = [
     {
         id: 123,
         name: "An Extremely Goofy Movie",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BYTY2OTIxYzYtODRkZC00ZTEyLTgyOTQtYzA0NWY4ZWQ5YmI5XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/14ksjNU4K06d4hmBgURx_Oh9JD_Nzpb5I/view?usp=sharing",
         author: "Unknown",
         year: 2000,
@@ -1111,7 +1111,7 @@ const ALL_MOVIES = [
     {
         id: 124,
         name: "Home Alone",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/image_ed8d7a4e.jpeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1l7dSSnBmw9Fnku5lxl7zYk7CsQa4JU3d/view",
         author: "Unknown",
         year: 1990,
@@ -1120,7 +1120,7 @@ const ALL_MOVIES = [
     {
         id: 125,
         name: "Home Alone 2: Lost in New York",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/homealone2_7706aa6d.jpeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sH3RXs-OiYr7ROKCtmB5miWVpX9G2b4Q/view",
         author: "Unknown",
         year: 1992,
@@ -1129,7 +1129,7 @@ const ALL_MOVIES = [
     {
         id: 126,
         name: "Scream",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/p18852_p_v10_al.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1pPzT8Ri09tg11w_9SPBhtDQuq7KH26XH/view?usp=sharing",
         author: "Unknown",
         year: 1996,
@@ -1147,7 +1147,7 @@ const ALL_MOVIES = [
     {
         id: 128,
         name: "Scream 3",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/bb2d73f16e71e36f5e1ca9f8701c2ae5d97729414288e5e4f9e9d4b00fbd36cc.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1i79Tg-esuzP4KBdyC4DUJsh_9XpWJgpY/view?usp=sharing",
         author: "Unknown",
         year: 2000,
@@ -1183,7 +1183,7 @@ const ALL_MOVIES = [
     {
         id: 132,
         name: "It",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BhQDbp8lXDwS-Q-pq4axufeZI-5TklpR/view?usp=sharing",
         author: "Unknown",
         year: 2017,
@@ -1201,7 +1201,7 @@ const ALL_MOVIES = [
     {
         id: 134,
         name: "The Nun",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi49U-7alumxu_CBlDWp1xl5WkY2JBGAVszrFluxBQN1elyelm",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1f54gZFt1PT6TllWwa-5SjtkRuOITxLNs/view?usp=drive_link",
         author: "Unknown",
         year: 2018,
@@ -1210,7 +1210,7 @@ const ALL_MOVIES = [
     {
         id: 135,
         name: "Beavis and Butt-Head Do the Universe",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZDAzMzk0NjktZDBiNS00ODNlLWI4NTItZDAzZTMxYTY2YTk4XkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/18Y0uInnJ7cNwwGsbJWlH3zPr4LtccmyR/view?usp=sharing",
         author: "Unknown",
         year: 2022,
@@ -1246,7 +1246,7 @@ const ALL_MOVIES = [
     {
         id: 139,
         name: "Minions",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Wz1VPwDHWA3t8n54e-YpRM18ad1mQuSG/view",
         author: "Unknown",
         year: 2015,
@@ -1255,7 +1255,7 @@ const ALL_MOVIES = [
     {
         id: 140,
         name: "Minions: The Rise of Gru",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/Minions_The_Rise_of_Gru_-_poster_(English).jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1lrJNkBON3H_5n8lF3WKCaUT6AUl9qbh4/view",
         author: "Unknown",
         year: 2022,
@@ -1264,7 +1264,7 @@ const ALL_MOVIES = [
     {
         id: 141,
         name: "Minions and More 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JbrS6Q5ztUmw5Xa8CvezcM_bRyGKQ2Q_SJCjpx2Z11jn3rf44L6rEj51LNbW6i-M53IpLX6Gqnm3JcqfbHVneq2qNS-Ak4H_dVGmag&s=10",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1SH1liTGeW3xZT37iIIzNmyIyqNZVEaWT/view?usp=drive_link",
         author: "Unknown",
         year: 2022,
@@ -1273,7 +1273,7 @@ const ALL_MOVIES = [
     {
         id: 142,
         name: "Despicable Me 4",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnZGXMNERS8l6sBYL9QaPgFTdp3Pkxyu-ff1WVuq1CWpp65ITa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1siki1wYP3LpfjFpUT8Z9lJuJzl7MdBhX/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -1291,7 +1291,7 @@ const ALL_MOVIES = [
     {
         id: 144,
         name: "The Little Rascals",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZTlhMjA5MGYtZDYyNS00MDQ4LWI0ZDAtZjJiODJjODI0N2I3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1eiY3r9KqM3Dmjtq38eRtR_eJFSGeciPz/view",
         author: "Unknown",
         year: 1994,
@@ -1327,7 +1327,7 @@ const ALL_MOVIES = [
     {
         id: 148,
         name: "Wreck-It Ralph",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA%40%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/11NQ1_ecO2FTIhofVPIfakshgSBnR6ngC/view",
         author: "Unknown",
         year: 2012,
@@ -1345,7 +1345,7 @@ const ALL_MOVIES = [
     {
         id: 150,
         name: "White Men Can't Jump (1992)",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZTE1ZmEyNDgtMjQyOS00YzUyLTlkMjYtNmJkYWUyZDJjYjczXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1MXghG0Dnn9XJ9iSGE6-bIuM7vysIxBfy/view",
         author: "Unknown",
         year: 1992,
@@ -1381,7 +1381,7 @@ const ALL_MOVIES = [
     {
         id: 154,
         name: "Back to the Future",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1uF72lGglIGHt-bkPY_PQXcrk1ja0JzZ7/view?usp=sharing",
         author: "Unknown",
         year: 1985,
@@ -1390,7 +1390,7 @@ const ALL_MOVIES = [
     {
         id: 155,
         name: "Back to the Future Part II",
-        cover: "https://cdn.jsdelivr.net/gh/dino-cmxy/Chillkirbcentrall@main/MV5BNzI2MGFkZDctOGVkMS00MDkwLTg5MDQtM2JkMWY5NGJiMjdiXkEyXkFqcGc%40._V1_.jpg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1vmA2LTkSzbtUJve8TTy2UVkPAfHMtGwK/view",
         author: "Unknown",
         year: 1989,
@@ -1507,7 +1507,7 @@ const ALL_MOVIES = [
     {
         id: 168,
         name: "Yo-kai Watch Jam: Yo-kai Academy Y - Can a Cat Be a Hero?",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiUTxfnzM90Pf63i_ssoZCj6uowSMxduEWZspSlEGSf29UzxvF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1agaUOrpagc2qgxTBQirz086vP1RlFF6G/view?usp=sharing",
         author: "Unknown",
         year: 2019,
@@ -1516,7 +1516,7 @@ const ALL_MOVIES = [
     {
         id: 169,
         name: "Pokémon: The First Movie",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRKFveu_G8LP_ICAk9uQPbL7Iii4WQ2kKKh7gd8vFsWLuCNf_w",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_5PiiaO_lwVMh3_4Px-TU0modiH11V8r/view",
         author: "Unknown",
         year: 1998,
@@ -1525,7 +1525,7 @@ const ALL_MOVIES = [
     {
         id: 170,
         name: "Pokémon The Movie 2000",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNCmwY5mfW7txHXn3zrJQ-EjPuJjG6P0EZnfx4igSAv12w8nKO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1AoToS8Ettg_wVvjDxQz3BiWLu-ewi6RG/view?usp=drive_link",
         author: "Unknown",
         year: 1999,
@@ -1534,7 +1534,7 @@ const ALL_MOVIES = [
     {
         id: 171,
         name: "Pokémon 3: The Movie",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-hyaVqMdO_5e6lFDPkOGRkqfiaMZlc4a_u7lSDDjJrUFcUtUa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13fTi-G4RAShFYX_UK0GMP4byLOjL8Tzf/view?usp=drive_link",
         author: "Unknown",
         year: 2000,
@@ -1543,7 +1543,7 @@ const ALL_MOVIES = [
     {
         id: 172,
         name: "Pokémon 4Ever",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqUo6SsvWgaCEeyR5jodW14zA_kUTi22ckhnJMJVnxhu1GmY_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BE--u5k8B7YLOuAhwm-HV2kjy2cchfSC/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -1552,7 +1552,7 @@ const ALL_MOVIES = [
     {
         id: 173,
         name: "Pokémon Heroes",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7Wz2CWUTpvQ81B6jsVHBQnqiJaTn7yH-U-VJ5fikxOtbUxioV",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1W98n3aU8Ad4PDHe9Z_1DzxvWy3i2jSR4/view?usp=drive_link",
         author: "Unknown",
         year: 2002,
@@ -1561,7 +1561,7 @@ const ALL_MOVIES = [
     {
         id: 174,
         name: "Pokémon: Jirachi, Wish Maker",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ91V3e-jbDXZlQB1JORh10zFREd2SBz74HicRx8SY0ttZCQ2jW",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1yrnL1o47TUJrs37KXj6XwdwuJMwig5Yg/view?usp=drive_link",
         author: "Unknown",
         year: 2003,
@@ -1570,7 +1570,7 @@ const ALL_MOVIES = [
     {
         id: 175,
         name: "Pokémon: Destiny Deoxys",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-KnfuSU0nF--0EJmfncgTVcBZ0r48rPGyF-iOgAVAxaD1OInr",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/10n-r278IQVFulwHRVZSoZ8QHYTLpR0T5/view?usp=drive_link",
         author: "Unknown",
         year: 2004,
@@ -1579,7 +1579,7 @@ const ALL_MOVIES = [
     {
         id: 176,
         name: "Pokémon: Lucario and the Mystery of Mew",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRRB1Gvm7navCKUy-Eo3KGlaacFGQh6C0cTMvzuYEX8vGRNBQq",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1DGWSLLeneKVXA6F9U9J7AbzA7iGpXywA/view?usp=drive_link",
         author: "Unknown",
         year: 2005,
@@ -1588,7 +1588,7 @@ const ALL_MOVIES = [
     {
         id: 177,
         name: "Pokémon: Giratina & the Sky Warrior",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX4US1Iu1LIW7wExc3Pns11rqOUOd_KDeuMjS7N2g4ruvnyEaA",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1xvRPznwbkzDZMSHDFr-R4JLpvH45jR9g/view?usp=drive_link",
         author: "Unknown",
         year: 2008,
@@ -1597,7 +1597,7 @@ const ALL_MOVIES = [
     {
         id: 178,
         name: "Pokémon: Black - Victini and Reshiram",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-y16vtXqscUG088gQZKoMZdfUkzfU08xcag_thVHGizOYz_7jSNfsxhuW7F-nzqAjt2lk&s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ONsADI2D1QtmyFpyW4zIo8zFDBrO4OL2/view?usp=drive_link",
         author: "Unknown",
         year: 2011,
@@ -1606,7 +1606,7 @@ const ALL_MOVIES = [
     {
         id: 179,
         name: "Pokémon: White - Victini and Zekrom",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKhDT38lbM3gnHkR7MLc7O1OmZHfXTLemDKT1NcJhoHJAAe20f",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1p2abgfDqQ-5eDtoKU0A_TCApI0SIaPQ6/view?usp=drive_link",
         author: "Unknown",
         year: 2011,
@@ -1624,7 +1624,7 @@ const ALL_MOVIES = [
     {
         id: 181,
         name: "Pokémon: Hoopa and the Clash of Ages",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpO-wkuLcLQJn-ervUkKJlLoUs1e6YMEyGpWcih8NYNQ9ZlexIuMu_F1KwiKLqJLw9uK1wg&s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1aH2Ivp60TpCGVc8RcXpf4-ywN4GICKEa/view?usp=drive_link",
         author: "Unknown",
         year: 2015,
@@ -1633,7 +1633,7 @@ const ALL_MOVIES = [
     {
         id: 182,
         name: "Pokémon the Movie: Volcanion and the Mechanical Marvel",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIZubOB9epl6oNZp5U2VRneraeCVj6QWkdFlNLgmd_LBnbHUX6",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1LtS0Qupkv4L3aYFoPXSdEgYiL0VF0FIg/view?usp=drive_link",
         author: "Unknown",
         year: 2016,
@@ -1642,7 +1642,7 @@ const ALL_MOVIES = [
     {
         id: 183,
         name: "Pokémon the Movie: I Choose You!",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOv4wBotNhaeFIM-AB_F1zitmaIKR0ZH6QIN5yZmdt2G2K_jmP",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1UKCK7zdXb374ZiDB-79zubOVtBU-8Q2D/view?usp=drive_link",
         author: "Unknown",
         year: 2017,
@@ -1651,7 +1651,7 @@ const ALL_MOVIES = [
     {
         id: 184,
         name: "Pokémon the Movie: The Power of Us",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcMOzczb-ZXfONC6bYLiiOqoPP82zGG3tkGnbqaI-Z8Mb_E7o_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1H6OdAhiap0D_T5ayTNy_Z8DZTHhU8-lw/view?usp=drive_link",
         author: "Unknown",
         year: 2018,
@@ -1660,7 +1660,7 @@ const ALL_MOVIES = [
     {
         id: 185,
         name: "Pokémon: Mewtwo Strikes Back Evolution",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlDmHizn_nTe3EtICFKQglF-b6-xOkKfWsr4o-lFB_RYaKi0ZzRs_efGJl6-lQOzcaJtFR&s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/17faKYkcJ9wTp2ZWXx9w-s0oC8603ukZ_/view?usp=drive_link",
         author: "Unknown",
         year: 2019,
@@ -1678,7 +1678,7 @@ const ALL_MOVIES = [
     {
         id: 187,
         name: "Beetlejuice",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVsxspVRryos59ijGqPcRiyKkmxXZbHVXboKCPkcoSaJuZO6fa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "#",
         author: "Unknown",
         year: 1988,
@@ -1687,7 +1687,7 @@ const ALL_MOVIES = [
     {
         id: 188,
         name: "Beetlejuice Beetlejuice",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSFaafiBGhb6Y7dRHfr1rmKkbSQcr3RUiZNfIArPpwOvZ9WPT0",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1OsCtW4NUV94utDNxmFejUFoH6euf8Ind/view?usp=sharing",
         author: "Unknown",
         year: 2024,
@@ -1696,7 +1696,7 @@ const ALL_MOVIES = [
     {
         id: 189,
         name: "Birds of Prey",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLSTWWsDJh0QSv9tgF2_GKhzaTVtn9PnjxUH1Jv8xrH2rgSDvO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1AShi8tLLzbPiPO6vDokf8ew-qBbzh5Pb/view?usp=sharing",
         author: "Unknown",
         year: 2020,
@@ -1705,7 +1705,7 @@ const ALL_MOVIES = [
     {
         id: 190,
         name: "Boyz n the Hood",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9RKSCGfUksDY4BHPsnQnVWmpLA4QE45VcQF3bHZnQYPuShPwS",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1fCv2dJuy8k_NQWAxbNRxqW0_zKetF-uy/view",
         author: "Unknown",
         year: 1991,
@@ -1714,7 +1714,7 @@ const ALL_MOVIES = [
     {
         id: 191,
         name: "The Blackening",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSchewZTTpUzZ1pc0NJv5WgaxzJZIJZae8_jjUs4q8xH4yYnEdb",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1VBG7WXqeiZ3BSvPuWUPCL1_iF9znvPI5/view?usp=sharing",
         author: "Unknown",
         year: 2022,
@@ -1723,7 +1723,7 @@ const ALL_MOVIES = [
     {
         id: 192,
         name: "The Black Phone",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmv-gEI1UoFDwWp8YW9q_VNl07zUd6W0hfK8m9Nx5NDJHfBMM7",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/140S8bCV6Ht2WticzegM_jfRayS2_Mvn_/view?usp=sharing",
         author: "Unknown",
         year: 2021,
@@ -1732,7 +1732,7 @@ const ALL_MOVIES = [
     {
         id: 193,
         name: "Coraline",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRIZmgYj_evmVo3En7TAGQ59EPhVFxrU0Jbp0-JtZ9-oH2Qkfeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1TFiL16cNmQmG5pSi-s6od4xgymFqK1kJ/view",
         author: "Unknown",
         year: 2009,
@@ -1741,7 +1741,7 @@ const ALL_MOVIES = [
     {
         id: 194,
         name: "Creed",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQBPPVNJsedotEncVKYqR5kzr-64FdBMo8Yz2mM0b2vRXdqDSxt",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1w9nVBGOKDax-xCr-caqekW4hcjRUQWZA/view?usp=drive_link",
         author: "Unknown",
         year: 2015,
@@ -1750,7 +1750,7 @@ const ALL_MOVIES = [
     {
         id: 195,
         name: "Creed II",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRK47d574YOXxZBLKbzpU5X7wdSobBbo-yX_dL5ynJwOPbmLSCt",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1KnW-KW6LV-fH0S0R_2sbsEKkKhSFK-OP/view",
         author: "Unknown",
         year: 2018,
@@ -1759,7 +1759,7 @@ const ALL_MOVIES = [
     {
         id: 196,
         name: "Creed III",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRmC62EfM6OLg4sXdCnYVVqTr41rNjBX4T7TuhgQxqeHR76ONKj",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1j8pGyNx9PHk_Gicns9JlDaX82qBIi1_m/view?usp=drive_link",
         author: "Unknown",
         year: 2023,
@@ -1768,7 +1768,7 @@ const ALL_MOVIES = [
     {
         id: 197,
         name: "Coco",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRThbVbZLOG2S4gJp_tVSAjaEy8WMSMvNNoxHE6of7rd5TXS5mTu",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/194M4dGCwh1hTxVM1-_axnLSdt4trnbK2/view?usp=sharing",
         author: "Unknown",
         year: 2017,
@@ -1777,7 +1777,7 @@ const ALL_MOVIES = [
     {
         id: 198,
         name: "Child's Play",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQfrrvtB4lkIc-azxeU_DurGHMixcW4iOiel5ajtiinH5RYqghw",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1FPO2K8Oqb1O3qm1qb57NhZHhaGCvQjAz/view?usp=sharing",
         author: "Unknown",
         year: 1988,
@@ -1786,7 +1786,7 @@ const ALL_MOVIES = [
     {
         id: 199,
         name: "Corpse Bride",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQiVf-tXwc3xDT66-w2GOf4P-FHwN9CRW5fQlwSwAaj7CXfXFOR",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1AHqrYm4cItyiEquPHJV5z3H81Cc0cCfI/view?usp=sharing",
         author: "Unknown",
         year: 2005,
@@ -1795,7 +1795,7 @@ const ALL_MOVIES = [
     {
         id: 200,
         name: "Captain Underpants: The First Epic Movie",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRSrtfW-GLrbaeCM7OI8jtAznah1Z3dSWe8K39gsurQdfFMEQD5y",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BW7yv_y4uk99Nsjbc--z1beQ_bYYmUXk/view?usp=share_link",
         author: "Unknown",
         year: 2017,
@@ -1804,7 +1804,7 @@ const ALL_MOVIES = [
     {
         id: 201,
         name: "Dungeons & Dragons: Honor Among Thieves",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQjzgH8k-lQVZeIEMFty27rVHbBXuOfkLG2UWnQmkPnzwtxDdoB",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1iX6QbaV3Oi_yGDvqRcFvrJ4_gzIOisnT/view",
         author: "Unknown",
         year: 2023,
@@ -1813,7 +1813,7 @@ const ALL_MOVIES = [
     {
         id: 202,
         name: "Descendants: The Rise of Red",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRTL5aXrsAHJCBA4dw1YqSaAcfQsIIwLIppgysKhi6i6iTDcd6K",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/14uIYHn4xepm1GLF2USxyBkUE6nQfueoE/view?usp=sharing",
         author: "Unknown",
         year: 2024,
@@ -1822,7 +1822,7 @@ const ALL_MOVIES = [
     {
         id: 203,
         name: "Dune: Part Two",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRSYcWh7tLxKT9zfhqv9pWB99jZgkp0kMELvBn8iAd6nBQ7KesxS",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/14VeNSqVtt5gcibZOfjPcjkBoasPrpiEG/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -1831,7 +1831,7 @@ const ALL_MOVIES = [
     {
         id: 204,
         name: "The Mighty Ducks",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRSamGBMl975zktkj-1jH-E7HicNIeQbspMZw7Hti3-d7QBX2jkr",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1MKL3dbjVCDH4cmnPtBoT8SeQeoK8bRYN/view?usp=drive_link",
         author: "Unknown",
         year: 1992,
@@ -1840,7 +1840,7 @@ const ALL_MOVIES = [
     {
         id: 205,
         name: "D2: The Mighty Ducks",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRTQxQPA0hACkefqwiEIH9P_Y75jBBHUov1GLO2PccOyTYTKWUIa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1xqucoWKrHYKgkPtIH504nV_QWrezUcC9/view?usp=drive_link",
         author: "Unknown",
         year: 1994,
@@ -1849,7 +1849,7 @@ const ALL_MOVIES = [
     {
         id: 206,
         name: "Elf",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRT08ZFpbAwAL_jQFtQfMjut1_T6oNgxRCQiOPA6S1twJLXZq_Wi",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1-cJP_6uvuboesHkiYPgfIg49eKvsBsF0/view?usp=sharing",
         author: "Unknown",
         year: 2003,
@@ -1858,7 +1858,7 @@ const ALL_MOVIES = [
     {
         id: 207,
         name: "The Evil Dead",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQeHkDzNZ__URsNeXrL_1PYGF11yj-Kb1fMIhjAF3vJuuOj4iIA",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1E2Epz2Y7Ji5xCnKT0RtqMz7r0ENBT4YB/view?usp=drivesdk",
         author: "Unknown",
         year: 1981,
@@ -1867,7 +1867,7 @@ const ALL_MOVIES = [
     {
         id: 208,
         name: "Evil Dead II",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRT1j6j2DwCb5CGZdJWBsecYkNC9OmXP_9CbrSk9HvUn5QdPU9Ns",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BklK_O-rTRNrk0q7xOhXt_LEiBmmYan8/view?usp=drivesdk",
         author: "Unknown",
         year: 1987,
@@ -1876,7 +1876,7 @@ const ALL_MOVIES = [
     {
         id: 209,
         name: "8 Mile",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQKj1gi40z19Q1xgB8HDqUruRT0z9PtXjT7rs1iy9Zj-vgf3BBF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13KF2oQ-b1WRvbjL0vMMAMlI0Vj8TYBuM/view?usp=sharing",
         author: "Unknown",
         year: 2002,
@@ -1885,7 +1885,7 @@ const ALL_MOVIES = [
     {
         id: 210,
         name: "Friday",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRSmPlQJ0P8q0Th4Widyxcr61BI9Ylv-8ZMwBgOxRTZMX_N4W8oO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1SKE9sQ-DnHRRVGxU10Qk2QJ1Ws2jvv5M/view?usp=share_link",
         author: "Unknown",
         year: 1995,
@@ -1894,7 +1894,7 @@ const ALL_MOVIES = [
     {
         id: 211,
         name: "Finding Nemo",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRSPMuT84H7cjZKS_L6KLxTDZA_12G-zUMA7w0xLO9hHj275KFAa",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1jP7PoHapLf_S_n75Afdc0RvzSwRqPcwm/view?usp=sharing",
         author: "Unknown",
         year: 2003,
@@ -1903,7 +1903,7 @@ const ALL_MOVIES = [
     {
         id: 212,
         name: "Friday the 13th",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRRCJMiZzQl60gseXR0r81HkVP4WMO0Oz5KBWLXuT-zkqm46hPIL",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Tu0WxRUC-gADzYFEnSvudZ3MZ7Y735jH/view?usp=drive_link",
         author: "Unknown",
         year: 1980,
@@ -1912,7 +1912,7 @@ const ALL_MOVIES = [
     {
         id: 213,
         name: "Friday the 13th Part 2",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQ2K7lI4QBMqnIwqUFvcRWsgUtyylKtqE2GaWC8V0yVmUxr0hod",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ROenMVwRyMGW0EIsf4Xg67EvRAAT5kcX/view?usp=drive_link",
         author: "Unknown",
         year: 1981,
@@ -1921,7 +1921,7 @@ const ALL_MOVIES = [
     {
         id: 214,
         name: "Friday the 13th Part III",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQT6HUOhY4svwFpBOm6ettw5QeVvCbzz9dLo9Bv0oKEqFtGCPBF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Ak82TmSBG3_lpbUgsDq22AcZ5gzGvTTB/view?usp=drive_link",
         author: "Unknown",
         year: 1982,
@@ -1930,7 +1930,7 @@ const ALL_MOVIES = [
     {
         id: 215,
         name: "Friday the 13th: The Final Chapter",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQT1LWqItlMh8EExhC5Qj0uxTsOYtS4wPqb0jXe3SsLmYHZLpIdck",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1M2OD-EPO3AjkzwYNvJLXCNe4B7y6bmM6/view?usp=drive_link",
         author: "Unknown",
         year: 1984,
@@ -1939,7 +1939,7 @@ const ALL_MOVIES = [
     {
         id: 216,
         name: "Friday the 13th: A New Beginning",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRBSz0VcvLfe196y7AvwiNI7oLvSePtZES_uxUTRv8-loYoNnl_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1cB43qNpCCf90tHch87EC4hBywV0Ao5-V/view?usp=drive_link",
         author: "Unknown",
         year: 1985,
@@ -1948,7 +1948,7 @@ const ALL_MOVIES = [
     {
         id: 217,
         name: "Friday the 13th Part VI: Jason Lives",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQllcCCiLuWG-a0-dcYm2PdBGYbsgxh_rStL1DCAH2iPQnuBjg_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Yug3RMr7f8z5P7TjxWgRN0geoWL7UnU4/view?usp=drive_link",
         author: "Unknown",
         year: 1986,
@@ -1957,7 +1957,7 @@ const ALL_MOVIES = [
     {
         id: 218,
         name: "Friday the 13th Part VII: The New Blood",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQl2b73WIdF25DGByhxqolp6gHbGiErZ3benE7HIZ84X99F1g_P",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1CG5Te-vXcvPrEuJtQsN3HZigm6bz33Os/view?usp=drive_link",
         author: "Unknown",
         year: 1988,
@@ -1966,7 +1966,7 @@ const ALL_MOVIES = [
     {
         id: 219,
         name: "Friday the 13th Part VIII: Jason Takes Manhattan",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQTzT4qnbBPOYOTNORJOCmR8_F69iYLStaCSjBhdEV8XsVrHF8YP",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1oRePBRxnrhk8feVEE3OtTNnE0Y70a4ZN/view?usp=drive_link",
         author: "Unknown",
         year: 1989,
@@ -1975,7 +1975,7 @@ const ALL_MOVIES = [
     {
         id: 220,
         name: "Jason Goes to Hell: The Final Friday",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSjbY6O1EVMWqooPvVojTr0JF6whQomlq6qNFZ1YKHuWWJvUY3Z",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1mvOr1kr0lX3XzbYIVJps-Mkz7UxjLUhP/view?usp=drive_link",
         author: "Unknown",
         year: 1993,
@@ -1984,7 +1984,7 @@ const ALL_MOVIES = [
     {
         id: 221,
         name: "Jason X",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQqqMkllrTF2Q0vVPkLNS2RtUCKIvf98OeZYtg3BDnFq8_Xsg_f",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1f_m_NTsYbbVFh1FBqXC1TOuS_4Yp6uSd/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -1993,7 +1993,7 @@ const ALL_MOVIES = [
     {
         id: 222,
         name: "Frozen",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRRtOzQ7EBgKQEtfGoCrVqTgNqCgvrvvqZiDGMwIzr9Zpl1YmGEt",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1XIuN4Zp35mW0iN4p0ME5APxH18-6Zqft/view?usp=drive_link",
         author: "Unknown",
         year: 2013,
@@ -2002,7 +2002,7 @@ const ALL_MOVIES = [
     {
         id: 223,
         name: "Frozen II",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRR1TZavriAaHssS7E7_s1iM5QNLDQiGemN_okufuqpCb3eIOl3o",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1hpUpKEdeT9ta-8FjSpMUAXw17E-8uwIY/view?usp=drive_link",
         author: "Unknown",
         year: 2019,
@@ -2011,7 +2011,7 @@ const ALL_MOVIES = [
     {
         id: 224,
         name: "Good Burger",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRTJMe_giUYZnRRte0Ffjp-rc99Spq2_VOF6WA4gjh0blDYqdJyy",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1jucPocCb8aq23Bh-GFLcniAk-k5UU-wC/view",
         author: "Unknown",
         year: 1997,
@@ -2020,7 +2020,7 @@ const ALL_MOVIES = [
     {
         id: 225,
         name: "Good Burger 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQT6fOZznl8uNSlVMuRL_9rhjv-dKMLj7mKcEp8VN6VgKODD77Jw",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1TOjPbqSF5UqnPrn1zFqEWvkUeBNiyMax/view?usp=drive_link",
         author: "Unknown",
         year: 2023,
@@ -2029,7 +2029,7 @@ const ALL_MOVIES = [
     {
         id: 226,
         name: "Ghostbusters",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRTprKyBsyOnMx2akR5sMxaQI-ZW-Azqq39biFuowDPJX6eaAFh2",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Kur_TXv1AOx8hhs0qGc_IwZXKmWvD6Y7/view",
         author: "Unknown",
         year: 1984,
@@ -2038,7 +2038,7 @@ const ALL_MOVIES = [
     {
         id: 227,
         name: "Ghostbusters: Frozen Empire",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQ6NthsSmt0iCv7PiwyR3QyuOpkGD8BmghbMJXezuW8u-wo15RO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1JSj4AbrcqmjOLKWJJS7u7IxyMGJiQmzY/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -2047,7 +2047,7 @@ const ALL_MOVIES = [
     {
         id: 228,
         name: "Grease",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRTOO07bZ2gSzP6RzqDJFUqm0FsgtwVNa07gU5Rcu2_kXNPUFJ1u",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1W77S931ShuhZ2RVeiNrfdQQUcR4pKsD0/view?usp=drive_link",
         author: "Unknown",
         year: 1978,
@@ -2056,7 +2056,7 @@ const ALL_MOVIES = [
     {
         id: 229,
         name: "Garfield: The Movie",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRTnvG8s3BGX6PVrqXcH-X22X9aXb2Wvr7GfaUa68Upf_r6Xhjsp",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1xMRDhscsmtcrECXXuOsqpAADTHJ0FxGS/view",
         author: "Unknown",
         year: 2004,
@@ -2065,7 +2065,7 @@ const ALL_MOVIES = [
     {
         id: 230,
         name: "Hidden Figures",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQQF8_Sg5Rt8Bjl274YHnB4nT2q0o8bW6TCFYAucbtCtnyNyC9H",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sfjv_SEQZQ4QPgPAeS8xckKHORr3gLiG/view",
         author: "Unknown",
         year: 2016,
@@ -2074,7 +2074,7 @@ const ALL_MOVIES = [
     {
         id: 231,
         name: "Hotel Transylvania",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRSu1KjAyHvPR6U9qTaIN-XFOLRG5ke6KBWiIYEBsbKCY9KSUOj8",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gZ4FVX5GLCSv2-i_sabXWhgl9u_3FeOB/view",
         author: "Unknown",
         year: 2012,
@@ -2083,7 +2083,7 @@ const ALL_MOVIES = [
     {
         id: 232,
         name: "Hotel Transylvania 2",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRTf8LX6seZ1pdRKRwDPo7oZY-8dua0RuGOCcEQ6G_bAGSfeb1IN",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1LZI5E52J_R_Cx6f3EXLl-BAn6vuhUduD/view",
         author: "Unknown",
         year: 2015,
@@ -2092,7 +2092,7 @@ const ALL_MOVIES = [
     {
         id: 233,
         name: "Hotel Transylvania 3: Summer Vacation",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRRyhcdiIgxpoGceo0W9XMQWWgj4IzD58vi4q8jLbtSulRZveYRF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1aS3rHee1w5zNTGGmSFM57DSVlC1hSvIs/view",
         author: "Unknown",
         year: 2018,
@@ -2101,7 +2101,7 @@ const ALL_MOVIES = [
     {
         id: 234,
         name: "Hotel Transylvania: Transformania",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQgEtsiUlUoB6Rp3uI_RhG-T20y7WvWEGL8uz_TK8ka5BD7gVlV",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_Ujbv8ONdcmV8TrYw8WzTwdD93deiiZp/view",
         author: "Unknown",
         year: 2022,
@@ -2110,7 +2110,7 @@ const ALL_MOVIES = [
     {
         id: 235,
         name: "Hercules",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRTiFBHW_mtPYUb1oaR5oLENwqhP-3s3bo2E58JZkuoIP1lUN8K-",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sXad7VvXVn7qIilwdspq5RtjmInpa7mQ/view?usp=sharing",
         author: "Unknown",
         year: 1997,
@@ -2119,7 +2119,7 @@ const ALL_MOVIES = [
     {
         id: 236,
         name: "Hamilton",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRTP-pSnQ05mF5LOfsau5VE_gDmQoZERJixfIpUJd86krYZ02wkyQ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1c47Nko9vdJfe-KKF4nkpd-U-aMT_ZaQe/view?usp=sharing",
         author: "Unknown",
         year: 2020,
@@ -2128,7 +2128,7 @@ const ALL_MOVIES = [
     {
         id: 237,
         name: "Harry Potter and the Sorcerer's Stone",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQcZT3sdwr1NiJytvJb95icJJKPWpWRNv35l_uuVYxjlzBJS-hb",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1bJMKhvzwuVfAYECLheyA_h38T9oYvkgX/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -2137,7 +2137,7 @@ const ALL_MOVIES = [
     {
         id: 238,
         name: "Harry Potter and the Chamber of Secrets",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQT5CR-nVjDTALNu4lZS1-6e5rU70K7kG1luvw2NDpfpKPI40MJ1",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1AC6j5pNVDl6fcvdT3e3hsAUkkBU-o3xD/view?usp=drive_link",
         author: "Unknown",
         year: 2002,
@@ -2146,7 +2146,7 @@ const ALL_MOVIES = [
     {
         id: 239,
         name: "Harry Potter and the Prisoner of Azkaban",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQT5NG-dDSzu9O4NRE8ZtIY1LiuoF3cYIBPy4MzXxK9UVzxnn4Xx",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Zu15ykGtc1xxKIKfAeUV_L1vAbCt--zO/view?usp=drive_link",
         author: "Unknown",
         year: 2004,
@@ -2155,7 +2155,7 @@ const ALL_MOVIES = [
     {
         id: 240,
         name: "Harry Potter and the Goblet of Fire",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQynNka8fnGlaaWkc8FP2VD1Zu8kldj6GqQL4XH3UFZjWr5xT4r",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1yYxqmSv99zFBsJkT0cZYd4C4PTNC9bUU/view?usp=drive_link",
         author: "Unknown",
         year: 2005,
@@ -2164,7 +2164,7 @@ const ALL_MOVIES = [
     {
         id: 241,
         name: "Harry Potter and the Order of the Phoenix",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRTT0_CEAvkHUMP09LzfSOwkPQ87R70DH51cqpi8LAD9Y-lJlZaX",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1eVK_s8Sp-Gvv1J65ocyLbwyqC7vkuoFK/view?usp=drive_link",
         author: "Unknown",
         year: 2007,
@@ -2173,7 +2173,7 @@ const ALL_MOVIES = [
     {
         id: 242,
         name: "Harry Potter and the Half-Blood Prince",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRUzubDECMqS6BWV8RT3r1BWxinjYWVXplxXIVVAdpbvaP6iJh",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1QfAnvJtU3oR7IV2CrN2qRx4vFThjbbe1/view?usp=drive_link",
         author: "Unknown",
         year: 2009,
@@ -2182,7 +2182,7 @@ const ALL_MOVIES = [
     {
         id: 243,
         name: "Harry Potter and the Deathly Hallows – Part 1",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRTuKvH7JMJC0qJ4YGX4h_O5hObauagk90fiJconjJ4fQ6S32SPI",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/17UlhT2qVX10O8AksEEdWuaUqoVF78-oH/view?usp=drive_link",
         author: "Unknown",
         year: 2010,
@@ -2191,7 +2191,7 @@ const ALL_MOVIES = [
     {
         id: 244,
         name: "Harry Potter and the Deathly Hallows – Part 2",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRRmfY22YsznTZ7ocT4Q4f_13aoowRRhrtssBb6QIE9vWjvbvyqu",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16jXkeJny6L8MrC_7issz4AtANAzNDJqw/view?usp=drive_link",
         author: "Unknown",
         year: 2011,
@@ -2200,7 +2200,7 @@ const ALL_MOVIES = [
     {
         id: 245,
         name: "High School Musical",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRSDXTpRrd79ne8KoMU-Z2FFD0uXpzc_Yp-RsQ9eN61_nwIbUwH_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1tg84YPuUqFUMlVpGzjkhoEehBHV8W9ZF/view?usp=drive_link",
         author: "Unknown",
         year: 2006,
@@ -2209,7 +2209,7 @@ const ALL_MOVIES = [
     {
         id: 246,
         name: "High School Musical 2",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRSlYMhPNmBLnRZrqjqEkHeWJi31TmnGlKH0iD79dIoBo-mhy_AR",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1iE1foAQrNAMJJg3aOd37GECWBkXmAEi7/view?usp=share_link",
         author: "Unknown",
         year: 2007,
@@ -2218,7 +2218,7 @@ const ALL_MOVIES = [
     {
         id: 247,
         name: "High School Musical 3: Senior Year",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQ3FsS105Ir9OHlK0xZ1XtDDsSG8cBkNwNLg1UoMmxf-c9uSwuG",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1aGq7saEhWkyACQlOmGIAmylSTeEOL864/view?usp=share_link",
         author: "Unknown",
         year: 2008,
@@ -2227,7 +2227,7 @@ const ALL_MOVIES = [
     {
         id: 248,
         name: "Hairspray",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQ7Wn0kgDUD-KKuzBqlHNg3Qyto8F6mDsaHR8d0hJg8JjtICX_1",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12X1rfnx0NrQUAhDRLRQxKdaqvAi_LqJa/view?usp=sharing",
         author: "Unknown",
         year: 2007,
@@ -2236,7 +2236,7 @@ const ALL_MOVIES = [
     {
         id: 249,
         name: "I Know What You Did Last Summer",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTbwG4c7g7A3b8b5tMfuy0HjmipBt6N_CSQMaeUyGMiwc3HO_dJ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sSPtR3lcvTcjtDHvv3sOHw8qHbuaeQY1/view?usp=sharing",
         author: "Unknown",
         year: 1997,
@@ -2245,7 +2245,7 @@ const ALL_MOVIES = [
     {
         id: 250,
         name: "Indiana Jones and the Dial of Destiny",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQWsCXahFpkdsfQRNJ4-OBolI2eUZ8qro3DcYjd3tmQfRcmyQw8",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BuNmXFmhFBoSKvcnbi5W1_hQkVLTrzwu/view?usp=sharing",
         author: "Unknown",
         year: 2023,
@@ -2254,7 +2254,7 @@ const ALL_MOVIES = [
     {
         id: 251,
         name: "The Instigators",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTVxkEHSiMBgJZU66H3TUvTEMuStkAgVs7RKQqi8pHUu4BFl_NF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1LPBpsJpE56zpdSZUi8f6tEkHPzaMceYo/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -2263,7 +2263,7 @@ const ALL_MOVIES = [
     {
         id: 252,
         name: "Thirteen",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRZr-6NLAoYeUpmlG5p8Wfg9fZeUnGSwn6pgLcbCp3SS7TUZpel",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/10HMzcDDav-A9xTydLioxLEfcou7SICYL/view?usp=sharing",
         author: "Unknown",
         year: 2003,
@@ -2272,7 +2272,7 @@ const ALL_MOVIES = [
     {
         id: 253,
         name: "Jurassic Park",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTcHXFtCmBOq73akbRR6lFVKje6ky8OB1KRay6qRKvYRWHT09Yz",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1QGXy2lJU4B0z4s7zPSOLizN8jMHfnZQm/view",
         author: "Unknown",
         year: 1993,
@@ -2281,7 +2281,7 @@ const ALL_MOVIES = [
     {
         id: 254,
         name: "The Lost World: Jurassic Park",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQ_At9BMX3gTT1Vv_WWpDqsR-ZuEfELrRopGLUegXF_NaS7ONpx",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/15okru5XkkghrsKUfQJaFUTUHxHF_o9a1/view?usp=drive_link",
         author: "Unknown",
         year: 1997,
@@ -2290,7 +2290,7 @@ const ALL_MOVIES = [
     {
         id: 255,
         name: "Jurassic Park III",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTGd5VtCqjQNuViRSEsQpkSrzegmGxvhR0AoARlJgu_gKPWNmm",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1W9RJS1N_rBcNFAA73Y3B6leLhhjXXY9k/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -2299,7 +2299,7 @@ const ALL_MOVIES = [
     {
         id: 256,
         name: "Jurassic World",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRRAhiD1zplxxzrmecY1L6PnNP_xTRO-kTW1ufH54wsKXLy_lWlO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1oD0MwA_C9OVb7HeO70m9gAAs-dbm9SJG/view?usp=drive_link",
         author: "Unknown",
         year: 2015,
@@ -2308,7 +2308,7 @@ const ALL_MOVIES = [
     {
         id: 257,
         name: "Jurassic World Dominion",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRRSrcWio-ZbeiNU_y8qzZ88wL5F8ICXaDQvmHivByFKBT6O8CS2E",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1x84uwAQzm7-j9MhDdNF5sb_jCRQFhjIa/view?usp=drive_link",
         author: "Unknown",
         year: 2022,
@@ -2326,7 +2326,7 @@ const ALL_MOVIES = [
     {
         id: 259,
         name: "Joker",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQc373yboAw6UaeuzJMGhgSN6JubsGFMgWOA_XC3jtbxvPuZ7LH",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1czY5u0zA3TPQh97OFth_1GkaK9nUo-Lq/view?usp=drive_link",
         author: "Unknown",
         year: 2019,
@@ -2335,7 +2335,7 @@ const ALL_MOVIES = [
     {
         id: 260,
         name: "Joker: Folie à Deux",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQS4BJI74r_5SFzhoWMG3dO63aS9ZKmmxDvurw2VPZxkQIzW6aoN",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1wiipkIcZ8r4itPij4w7CpOvC6uz-2wCS/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -2344,7 +2344,7 @@ const ALL_MOVIES = [
     {
         id: 261,
         name: "Jingle All the Way",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQR_D3-200sB-uftpjO5ou3DG7nSr4881WrPwa_vSJS_qvIZZjy8",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gdQba6i5IcBe7_a4eyU75cuAkbyJEpt4/view?usp=share_link",
         author: "Unknown",
         year: 1996,
@@ -2353,7 +2353,7 @@ const ALL_MOVIES = [
     {
         id: 262,
         name: "John Wick",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQT2gCKp_FAhhyFwULWedj5TJ3v997GtTNmnzI4a528rolv4Nt_v",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1o-u405CtHzkRFAjDRxnlwIV1MKzmpQYa/view",
         author: "Unknown",
         year: 2014,
@@ -2362,7 +2362,7 @@ const ALL_MOVIES = [
     {
         id: 263,
         name: "John Wick: Chapter 2",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQT581lV1qvox1QN7kDBtsMAHmrS_3TqY-k-Ab3bVapiVd9ezSJN",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gzsZEVTNEb93tSa0nuzlpR2n20D4Dyx9/view",
         author: "Unknown",
         year: 2017,
@@ -2371,7 +2371,7 @@ const ALL_MOVIES = [
     {
         id: 264,
         name: "John Wick: Chapter 3 - Parabellum",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRhD2WYV8AtuJuFkps4KHY_i38KJ6ZqN0nj-3KSLXG0IIpDBvf_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1CsIZrKGXn557DdOJrdz5ty7nkg0i4CWR/view",
         author: "Unknown",
         year: 2019,
@@ -2380,7 +2380,7 @@ const ALL_MOVIES = [
     {
         id: 265,
         name: "John Wick: Chapter 4",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQStoEdgmuVFv-U8ZgSlCMwkN9EN7WqqZW-PC4quRBqAWYrzsVM",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/10LUlcX6Hu9pn3c3xmPlfJOf20Qjwgxq_/view",
         author: "Unknown",
         year: 2023,
@@ -2389,7 +2389,7 @@ const ALL_MOVIES = [
     {
         id: 266,
         name: "Kill Bill: Vol. 1",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQQJfAmi0Yv1yC5KiIjnwENJR7xWFpH_R8ChhpcWmQaocwqEsGaf",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1O7IPP73pLpqj6qH4mfqjDhwNbeDMSU7N/view?usp=drive_link",
         author: "Unknown",
         year: 2003,
@@ -2398,7 +2398,7 @@ const ALL_MOVIES = [
     {
         id: 267,
         name: "Kill Bill: Vol. 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTkS01zo_LpuiaTbp7Pu7XbAoFGW4SRSaw6ndBWYc5jnC2zQtGr",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1p5DfNhB87k8bE-OQi7ELONmPkIhJIjC-/view?usp=sharing",
         author: "Unknown",
         year: 2004,
@@ -2407,7 +2407,7 @@ const ALL_MOVIES = [
     {
         id: 268,
         name: "Kung Fu Panda 4",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQQ7JjEKTO61is55MO9oWgqxOJ48o60Aux8iprkQ0jEswoBVFNaw",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1boIeWj09LNCdGhmasx5f5YnClj0IyDWe/view?usp=drive_link",
         author: "Unknown",
         year: 2024,
@@ -2416,7 +2416,7 @@ const ALL_MOVIES = [
     {
         id: 269,
         name: "The Karate Kid",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSWTVXH7T24IU2aMO2KCl09NAkYuoiS81MTP5Hvw86hNkndTTb6",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1tMJAooF8bG9ghav9CU4GPYF3t07ySMXL/view?usp=sharing",
         author: "Unknown",
         year: 1984,
@@ -2425,7 +2425,7 @@ const ALL_MOVIES = [
     {
         id: 270,
         name: "Labyrinth",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTc3VE1kltRLL2RVyE75CJQy-BNEBnYLefCUAttHONu8nwP1o6n",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13TgTB15A99LLWI_ROcci18FT8ijuq8RC/view?usp=drivesdk",
         author: "Unknown",
         year: 1986,
@@ -2434,7 +2434,7 @@ const ALL_MOVIES = [
     {
         id: 271,
         name: "Leprechaun",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQQN-98t3jLkkzRPUiU83QfWpLGjtk52gFDLmNellsDB2j-YauaJ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1pktrP3sKl90GQnM6wpRmxqlxgkv4sYaP/view?usp=drivesdk",
         author: "Unknown",
         year: 1993,
@@ -2443,7 +2443,7 @@ const ALL_MOVIES = [
     {
         id: 272,
         name: "Leprechaun 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQR-R-JfzR64CD7aSLKaW2DWJD2ue3k0sIATw19GJ3IxtA0_ENfh",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gVMT8Aad2F51JdRYkjwkTw7tH88zgZxg/view?usp=drivesdk",
         author: "Unknown",
         year: 1994,
@@ -2452,7 +2452,7 @@ const ALL_MOVIES = [
     {
         id: 273,
         name: "Leprechaun 3",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQR7RMQU0e4Tl6hbf_D8HbMP-twYteklmOgXnqRVbX3xMRL0vbDX",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Tzy2eFt1almlNxZkXfiOVvA-hkGLCvch/view?usp=drivesdk",
         author: "Unknown",
         year: 1995,
@@ -2461,7 +2461,7 @@ const ALL_MOVIES = [
     {
         id: 274,
         name: "Leprechaun 4: In Space",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSAdWzqh0TdZcph7yVA8thcVhZuSD8IpM6aVK8_cGGpRy5BP4sM",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/153R-JCEBqmgs3WrcHkEabTynjwa0Ryxs/view?usp=drivesdk",
         author: "Unknown",
         year: 1997,
@@ -2470,7 +2470,7 @@ const ALL_MOVIES = [
     {
         id: 275,
         name: "Miraculous World: New York – United HeroeZ",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRcjvDqFCJXTkYOUZUfrcV3Oerm69alJf8N5lqc3s5LtAXWRgz3",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1jTfxqP7BrcbIv5SVAxHP7FFIdt8A51ZJ/view?usp=share_link",
         author: "Unknown",
         year: 2020,
@@ -2479,7 +2479,7 @@ const ALL_MOVIES = [
     {
         id: 276,
         name: "Maleficent",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRpRgqNe-M0A4Q7RxPDug03C5tTdmxIyPZuvauntFLu8odAg5cA",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1yx66GkjBaCwjcMNoovV8w9yPNlZ7Q4Gu/view?usp=drive_link",
         author: "Unknown",
         year: 2014,
@@ -2488,7 +2488,7 @@ const ALL_MOVIES = [
     {
         id: 277,
         name: "Mean Girls",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRgbjtg_EtFEK89VttC4Zu4y4asqjtIb02DGiu1kJtwMCFvH289",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Hab49OuPK37MngOtQolLsVIzJ4AK9cNA/view?usp=sharing",
         author: "Unknown",
         year: 2004,
@@ -2497,7 +2497,7 @@ const ALL_MOVIES = [
     {
         id: 278,
         name: "Moana",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTq7M1d9ljrLzBxmn-vxceGdGGgoD8vg6ITrscZYUrHPANgz7-E",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Zkep5HZHk6daQhYjAN5Y9fBGy-K9dCu3/view?usp=drive_link",
         author: "Unknown",
         year: 2016,
@@ -2506,7 +2506,7 @@ const ALL_MOVIES = [
     {
         id: 279,
         name: "Mulan",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRp9CxshAq-rdiP3GQLuYN-xrDh9RMiW7ubZIvf4z79VOEdlpR",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ye-qQ6ZmBW98Xab4sjDJw1oxmUw_piBz/view?usp=sharing",
         author: "Unknown",
         year: 1998,
@@ -2515,7 +2515,7 @@ const ALL_MOVIES = [
     {
         id: 280,
         name: "Norbit",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRqOuaBShpD-3pcGaBsL5bDgzNfr898Mu029eYaO9OXCWu3zuDO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1PUIzjrlfRen4M7CqwIcmVdABNBpMWt5s/view",
         author: "Unknown",
         year: 2007,
@@ -2524,7 +2524,7 @@ const ALL_MOVIES = [
     {
         id: 281,
         name: "Mighty Morphin Power Rangers: The Movie",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQSrv4uj6AR7uuyy0YyYh7zFqdJ4UkiFGk1dD-XhEgQS_Oi_KuBG",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1e-f3lzrTrRV3iVT7Ft-KLSd6fHbyUT2i/view",
         author: "Unknown",
         year: 1995,
@@ -2533,7 +2533,7 @@ const ALL_MOVIES = [
     {
         id: 282,
         name: "The Peanuts Movie",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSpi_GztV05NV6T_X8SJ38nft97S_qLTIA-p-OM6znkNpAIkXvV",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16Ze08q_XKmANPNYreDVZnEbZEZTSLwOa/view?usp=share_link",
         author: "Unknown",
         year: 2015,
@@ -2542,7 +2542,7 @@ const ALL_MOVIES = [
     {
         id: 283,
         name: "The Polar Express",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRh2MtEDbfjWSqt7sSfkoro22E5JxOvU_1ShcBP-VJDPXze5LG3",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/19KYYKqlEQyEuUTUQv32U53WoIDvKTRrx/view?usp=sharing",
         author: "Unknown",
         year: 2004,
@@ -2551,7 +2551,7 @@ const ALL_MOVIES = [
     {
         id: 284,
         name: "PAW Patrol: The Mighty Movie",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSPMgZRFdZuJnoNp9ZRzZAxBUF7HknfjBZFFpqp7jwgjBS2jZuw",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13PKSmF1dnXkByra1B5NLarzB_ux4cU0T/view?usp=drive_link",
         author: "Unknown",
         year: 2023,
@@ -2560,7 +2560,7 @@ const ALL_MOVIES = [
     {
         id: 285,
         name: "Power Rangers",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSXjLPkoQZ-nzSNezpXY1Mjhw2PJ08kRJ3GD4EjQZNbU08Koh6H",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1bAS1zgiXsYJVXzhra9Fg2PHWBbVDU8lJ/view?usp=sharing",
         author: "Unknown",
         year: 2017,
@@ -2569,7 +2569,7 @@ const ALL_MOVIES = [
     {
         id: 286,
         name: "Ready Player One",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRXABLPrBzGZLTKsr-ljq0DZep8RlVArEiQ7zKeHVj9pQCYMV1N",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1vCPMrNGFL3Kyf1J4qaySzKnACtg8eAqj/view?usp=drivesdk",
         author: "Unknown",
         year: 2018,
@@ -2578,7 +2578,7 @@ const ALL_MOVIES = [
     {
         id: 287,
         name: "Rio",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRNwt48_T7xAOZ2RiDpF-ALaS1uCiUhvUlzGG7gCCcLY7YNCCn8",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1DIHKkPm7JVwOWWgM5RvYgOhAbFXWOAhf/view?usp=share_link",
         author: "Unknown",
         year: 2011,
@@ -2587,7 +2587,7 @@ const ALL_MOVIES = [
     {
         id: 288,
         name: "Rio 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQSVzgpmxZOMe7dBUXw6F8EfNIxXiWxZcdc_m0vAJ2vAWYmFdKhW",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12oiUUNl2_I7l1GsXLD74FA0wJlrRX7v_/view?usp=share_link",
         author: "Unknown",
         year: 2014,
@@ -2596,7 +2596,7 @@ const ALL_MOVIES = [
     {
         id: 289,
         name: "Real Steel",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQQB-CEqDyKq4ZlSvDj8w79lfBDZ0OQRO574m4djlt5RxkH9gd1e",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1zamnVJgx2cGGc4r2w9jWiEqRIG9WJREE/view",
         author: "Unknown",
         year: 2011,
@@ -2605,7 +2605,7 @@ const ALL_MOVIES = [
     {
         id: 290,
         name: "Ratatouille",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRUYn6k1MCkCJiy9cpwzwrmH272y6kt_GomQxiwwmqhyu0QXED",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1kjVDdXtZ3-O0SndMHeIwMXe4jNZJ4w2C/view?usp=sharing",
         author: "Unknown",
         year: 2007,
@@ -2614,7 +2614,7 @@ const ALL_MOVIES = [
     {
         id: 291,
         name: "Ron's Gone Wrong",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRB6qRbfbRP_khKgg-MqS6n4GyNceZ55VC4fnj_ABsU-dQ_Xqj_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1nKl-oBgmnWygnF7xm6CfSWikp22ElVZY/view?usp=share_link",
         author: "Unknown",
         year: 2021,
@@ -2623,7 +2623,7 @@ const ALL_MOVIES = [
     {
         id: 292,
         name: "Rambo III",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQSsTzJT8w-5JhuFp-yrjjibl89saPuRaBq0XveackrhbCl6EfLe",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1KDIkm6VSTb_QrvSb8Gvbus8z-L3BGySI/view?usp=sharing",
         author: "Unknown",
         year: 1988,
@@ -2632,7 +2632,7 @@ const ALL_MOVIES = [
     {
         id: 293,
         name: "The Rugrats Movie",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRiOAeMAk2uW2KU9usy3dKfEk46zjkLEi9u25_VnKUwXUwnIg0o",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/157WJal3P65gdyFlDbP4DcRfNku-Oursg/view",
         author: "Unknown",
         year: 1998,
@@ -2641,7 +2641,7 @@ const ALL_MOVIES = [
     {
         id: 294,
         name: "Rugrats in Paris: The Movie",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQQO1Ns5Kfrc1vUiFLOrXD3uanfUqTgt5J3jjO2BD3S7G5yZ6DNU",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1w3PdNgN0AXDmG1CYRv7v0kMYrC1Ywu_0/view",
         author: "Unknown",
         year: 2000,
@@ -2650,7 +2650,7 @@ const ALL_MOVIES = [
     {
         id: 295,
         name: "Romeo + Juliet",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQQmmA175WYmKPVV6XjJd8DFeJ8dmt7iDoSQs2rRxx3yx-uzZAXK",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12_qQEuH75vHIqFjIwmDlawqQmav5RG-u/view?usp=drive_link",
         author: "Unknown",
         year: 1996,
@@ -2659,7 +2659,7 @@ const ALL_MOVIES = [
     {
         id: 296,
         name: "Rush Hour",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQQoqWyMA-oJ1QcTyS_7Uj461RDVzXpWOIswGRsrg4jQTKY-BWTh",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ZcBKqjCxKjyddbVmb8sdOtCo-14v6fTp/view?usp=drive_link",
         author: "Unknown",
         year: 1998,
@@ -2668,7 +2668,7 @@ const ALL_MOVIES = [
     {
         id: 297,
         name: "Rush Hour 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRV3GU_IDg_CWuOPL7VjJ7wZfLiks4euuhSXaVx7xa3qTd2uSJC",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1mnNpYvlG_QNVxpq8LniD4hOPLPinnBEP/view?usp=sharing",
         author: "Unknown",
         year: 2001,
@@ -2677,7 +2677,7 @@ const ALL_MOVIES = [
     {
         id: 298,
         name: "Rush Hour 3",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQT3JA11_F2PmlB8GtzIYc7R_EH4mQ0BxFEH15eu71VyiLsONOs2",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1fIOuM1hV1Ga0O6eQrhvozLNc35Rw-XB8/view?usp=sharing",
         author: "Unknown",
         year: 2007,
@@ -2686,7 +2686,7 @@ const ALL_MOVIES = [
     {
         id: 299,
         name: "Saw",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQb6EWw3r6jNkS1hOAhWEMBXIgDq1yJWn15dJSwnkSgm2B6Yc4B",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1nZn3QfKiiZgg4nx3GRA4-K6obuJLlepm/view?usp=drive_link",
         author: "Unknown",
         year: 2004,
@@ -2695,7 +2695,7 @@ const ALL_MOVIES = [
     {
         id: 300,
         name: "Saw II",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRwJBLJjiLwk3Iiq_WHYRtf_kbs-jK_f54IEs9qpS3WDMRzv2L",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1eQLt5qFXYBjdvN05Jryfkc0MUF6eLZfS/view?usp=drive_link",
         author: "Unknown",
         year: 2005,
@@ -2704,7 +2704,7 @@ const ALL_MOVIES = [
     {
         id: 301,
         name: "Saw III",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQJBYrNm7WZU0_PGxF7HVV0yqNCY8wWHGtjg0uRRS2n6W0F2DDe",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1afqsupX8WtCzEt3AbeKe_Ffwfb4oXzsa/view?usp=drive_link",
         author: "Unknown",
         year: 2006,
@@ -2713,7 +2713,7 @@ const ALL_MOVIES = [
     {
         id: 302,
         name: "Saw IV",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQR08gfuHHprttVGmGve8B2zABdPys90DeBIy0LObnePgXQQIYRm",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1XmKqBrU4I1QqPnKG5WGpVImeTFvBjy0n/view?usp=drive_link",
         author: "Unknown",
         year: 2007,
@@ -2722,7 +2722,7 @@ const ALL_MOVIES = [
     {
         id: 303,
         name: "Saw V",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQTZeTRVXSqiPGCezubN3vhobUFMAa0MHeESq9rqVtJEI3kaD35X",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Rng7E07HcEPZmWvxYHk2gnrhArp_0MsS/view?usp=drive_link",
         author: "Unknown",
         year: 2008,
@@ -2731,7 +2731,7 @@ const ALL_MOVIES = [
     {
         id: 304,
         name: "Saw VI",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTv_fqql_iAIszlP5qG5735UX8NVGXXFud/view?usp=drive_link",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1v_fqql_iAIszlP5qG5735UX8NVGXXFud/view?usp=drive_link",
         author: "Unknown",
         year: 2009,
@@ -2740,7 +2740,7 @@ const ALL_MOVIES = [
     {
         id: 305,
         name: "Scrooged",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQT17VEfXZPdkqmtWv3Qqdyp9T2Tm1TpJNfw0Ct5j08K9_QayuhT",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1zmDJ-0X5qV2niOZe7ZsL_sPk6w7XvDnr/view?usp=drivesdk",
         author: "Unknown",
         year: 1988,
@@ -2749,7 +2749,7 @@ const ALL_MOVIES = [
     {
         id: 306,
         name: "Scream 7",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTFeYb9DChjSMlrefx6Di1cDkQ003gLICOVe63jn7xUB165_JQZ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1RtaN8_Xsodf4Ub5K_yRp6eOx62tbj7Ap/view?usp=drivesdk",
         author: "Unknown",
         year: 2026,
@@ -2758,7 +2758,7 @@ const ALL_MOVIES = [
     {
         id: 307,
         name: "Shazam!",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQR4sh8JNl4f6f7KUmSWExoj6G13bJS8Vle44d5A_p9vd_qO90kz",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/111DMVHuhGLLFunQ1ixi_OG8ui0ckXbfU/view?usp=share_link",
         author: "Unknown",
         year: 2019,
@@ -2767,7 +2767,7 @@ const ALL_MOVIES = [
     {
         id: 308,
         name: "Shazam! Fury of the Gods",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTvoNq1HXBYEV-SPdP79CLBLxZ377JOW_77QrA9GG6mts7rkKeg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1LC17KNt1pxG1zJ43CwIBNGXaCN3cmLPc/view?usp=share_link",
         author: "Unknown",
         year: 2023,
@@ -2776,7 +2776,7 @@ const ALL_MOVIES = [
     {
         id: 309,
         name: "Suicide Squad",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTcBMCsMHdRilWB2GfG2gll0D8RKLuXBj7lOd5Q-pXD2T46QVia",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1m2m6kudeN5pivaeCWfMR88xXEyZg8nFK/view?usp=sharing",
         author: "Unknown",
         year: 2016,
@@ -2785,7 +2785,7 @@ const ALL_MOVIES = [
     {
         id: 310,
         name: "The Suicide Squad",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTnVJ6rICHStjDqhu0ZCUD1noA3_1dD0nUxPJhM6mccDKl8XAX",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/11nKqV7QKkATlvO7pt8eHlfS32rSHeOVZ/view?usp=sharing",
         author: "Unknown",
         year: 2021,
@@ -2794,7 +2794,7 @@ const ALL_MOVIES = [
     {
         id: 311,
         name: "Star Wars: Episode II – Attack of the Clones",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQQDrLeiB4Fv66hgfkgsosdiFoDyAt9rClQWN4GifqTv5UwdJqAV",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1u0ZRN7s8rgAMYtvnGf3zTjpM7Fu6TmW_/view?usp=drive_link",
         author: "Unknown",
         year: 2002,
@@ -2803,7 +2803,7 @@ const ALL_MOVIES = [
     {
         id: 312,
         name: "Star Wars: Episode III – Revenge of the Sith",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTZTS3juXvMCxUdbrvxQEmfZpiCZQfNOkqeov_v2CVh4W-qljHb",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1lEszWnr2BinTfzBGqtoDV1W9wMIlTQtb/view?usp=drive_link",
         author: "Unknown",
         year: 2005,
@@ -2812,7 +2812,7 @@ const ALL_MOVIES = [
     {
         id: 313,
         name: "Star Wars: Episode IV – A New Hope",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRzI0IBVHQqfBNxpZy4lM6mq6biSRd9vUw7FHQPkaRQv2JEJ16r",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1nDgCNAuFgSI6fDKbRZFkDhzViib1ixYS/view?usp=drive_link",
         author: "Unknown",
         year: 1977,
@@ -2821,7 +2821,7 @@ const ALL_MOVIES = [
     {
         id: 314,
         name: "Star Wars: Episode V – The Empire Strikes Back",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQR1GTV79PCln0jJ0XS0jpi-2rgOOa1Do42GZu7s98kUWKY6a2j",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1q0Jof59Il_So2z5Q38ANn55qB2GCpOx3/view?usp=drive_link",
         author: "Unknown",
         year: 1980,
@@ -2830,7 +2830,7 @@ const ALL_MOVIES = [
     {
         id: 315,
         name: "Star Wars: The Last Jedi",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRlIy4GXVK2e5tkxIixayYlkMGDFGJ-GqZzHxdi6btn2ulMqkAT",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1vCdep3QXu8GE9IaNUdVmCGLiG24kFrWb/view?usp=drive_link",
         author: "Unknown",
         year: 2017,
@@ -2839,7 +2839,7 @@ const ALL_MOVIES = [
     {
         id: 316,
         name: "Star Wars: The Force Awakens",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQSobobwiNCS-SLNNTuB-wrJkaO5N0h6PmNKNG4pALt5M7J_iBCL",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1D-T-C4PNPbZ61wiHqXgQlQqYy_NTcsKa/view?usp=drive_link",
         author: "Unknown",
         year: 2015,
@@ -2848,7 +2848,7 @@ const ALL_MOVIES = [
     {
         id: 317,
         name: "Star Wars: The Rise of Skywalker",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQmVGbrPTbutvVAiOQtGVoo-jAZawOoog77H02_ReMnfcSXBxtz",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1viDV-Gu6yGHOpyaDefPH3Id9fXSHuTsi/view?usp=drive_link",
         author: "Unknown",
         year: 2019,
@@ -2857,7 +2857,7 @@ const ALL_MOVIES = [
     {
         id: 318,
         name: "Solo: A Star Wars Story",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQS45q1X-awjLEUlX0P0lbFkg-WgtMjOjMI5cgYKn5jGHVsLwuZm",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1cVMCqyg7byeajsDkn4cyHQe7SSLfxVPL/view?usp=drive_link",
         author: "Unknown",
         year: 2018,
@@ -2866,7 +2866,7 @@ const ALL_MOVIES = [
     {
         id: 319,
         name: "Star Wars: The Clone Wars",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQT2mhuclPglqUKmZXVYzsadpnr2joqY1YxnHzC_K5PaTr9W5-s",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16dO2t6nMYzRFTKGBVByMPYtru6kwix7H/view?usp=drive_link",
         author: "Unknown",
         year: 2008,
@@ -2875,7 +2875,7 @@ const ALL_MOVIES = [
     {
         id: 320,
         name: "Snitch",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTjU91tgPhOMiFWDodmN-odGo5vKtykRa_BTMP6qNxlg-zGEr6O",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/17hMZl5qq3Khflm_xUYZW9b8nGCJ6OBfA/view?usp=sharing",
         author: "Unknown",
         year: 2013,
@@ -2884,7 +2884,7 @@ const ALL_MOVIES = [
     {
         id: 321,
         name: "Scary Movie",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQS8U5l6FdSR58uF2yH-1aWMvidsVB-v0994kOlaCaE7RjXWZbc",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1-61Fls8_MDTVq3r5dHP58joVRiUloxZQ/view?usp=drive_link",
         author: "Unknown",
         year: 2000,
@@ -2893,7 +2893,7 @@ const ALL_MOVIES = [
     {
         id: 322,
         name: "Scary Movie 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQT--k7is8XGFIrpMxxjebnWbhQtvbjuCZlesOJyZwHh4uUN0Gy7",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Jmeyjhlpg6A-W-XJPoqC8uhtWztuQe-F/view?usp=drive_link",
         author: "Unknown",
         year: 2001,
@@ -2902,7 +2902,7 @@ const ALL_MOVIES = [
     {
         id: 323,
         name: "Scary Movie 3",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQQ3N_lHoXqL8IDIUzZcsRHUr9MCvT9nlLpk22KxrCf4Vd7sJd6b",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1KN1dzjj-d6MhY47MIgWdT2Au10Ft7Bf1/view?usp=drive_link",
         author: "Unknown",
         year: 2003,
@@ -2911,7 +2911,7 @@ const ALL_MOVIES = [
     {
         id: 324,
         name: "Scary Movie 4",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQRJ2iM679lxF9AYAILe1fYYINn2W7Zm5FNoje_hOzXo8_y072q2",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1pgH5VfJEi5NRVEtp2y_vZMSOk_rh3Har/view?usp=drive_link",
         author: "Unknown",
         year: 2006,
@@ -2920,7 +2920,7 @@ const ALL_MOVIES = [
     {
         id: 325,
         name: "Sleepy Hollow",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQT66qHTJZ1TpW4oUgPQi3ITduoKcv-rGwoNnqSaoTCvzbu8Zzn",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/18gseXON5RP2ipsWcd0XGZH9k4TyaeYYR/view?usp=drive_link",
         author: "Unknown",
         year: 1999,
@@ -2929,7 +2929,7 @@ const ALL_MOVIES = [
     {
         id: 326,
         name: "The Lion King",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSPSpeAmNyoi3aUuqH9CBI7JTocyQgXRS1Q9rceFOUe5tpVS3sx",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GrJxp4D9XrmYBG_bqRgp1UvQaapyjoV7/view",
         author: "Unknown",
         year: 1994,
@@ -2938,7 +2938,7 @@ const ALL_MOVIES = [
     {
         id: 327,
         name: "The Lion King II: Simba's Pride",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSBqScQjUvLBeK7EE9BOK0XqDWqvf4FIujCLeW-znj-EtHaJBr",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1-sT4cdDqG6tt4wI0ba7Z3FhDoX8ded8L/view",
         author: "Unknown",
         year: 1998,
@@ -2947,7 +2947,7 @@ const ALL_MOVIES = [
     {
         id: 328,
         name: "The Sandlot",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQTbNpqLEb51Rrfr5S6IRSDmOwLNZkH9raRMHMoC1-0MjFBAgx4f",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1G9qRpMiBq5HD-vqKQs9sq8csZCFccaiD/view",
         author: "Unknown",
         year: 1993,
@@ -2956,7 +2956,7 @@ const ALL_MOVIES = [
     {
         id: 329,
         name: "The Green Mile",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQT3-k6Fs1JapvhcPmLikUW9X_zqVmDkIPPqg1u6t2_swGi8UDwQ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/drive/folders/1Yaled5HTPlCdoX_7MAhu937sGTlP7PV4",
         author: "Unknown",
         year: 1999,
@@ -2965,7 +2965,7 @@ const ALL_MOVIES = [
     {
         id: 330,
         name: "The Brave Little Toaster",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRtOc9wuxibxMgycUhHZEDM1gjgF3ueyP0jxC337r2xhcsXWxwF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1qZxoOGQTxqwlJtOQbwN8jeyD_yVvX7yc/view?usp=share_link",
         author: "Unknown",
         year: 1987,
@@ -2974,7 +2974,7 @@ const ALL_MOVIES = [
     {
         id: 331,
         name: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQT5qcfHWWzWW03_X_AoCseNckVNSSPcsoTSc5vKbzsg34jvDHtu",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/14TYyfl0ogVnDyw_yKCrU_jKGPIDBM3Nu/view?usp=share_link",
         author: "Unknown",
         year: 2005,
@@ -2983,7 +2983,7 @@ const ALL_MOVIES = [
     {
         id: 332,
         name: "The Chronicles of Narnia: Prince Caspian",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTNQIOt5NojZOPGwCa_cXX0AnnZY65EhYPDFriMoz2s9bGLgi28",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1DxOEqY1EzxcJYSNk2s6xXLf2SSP-hTRI/view?usp=share_link",
         author: "Unknown",
         year: 2008,
@@ -2992,7 +2992,7 @@ const ALL_MOVIES = [
     {
         id: 333,
         name: "The Chronicles of Narnia: The Voyage of the Dawn Treader",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSqN6ygDHiOltNd4NTsxiGxT-lh9QCJyQZlGtK1BMRf3_YNaVfu",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12_UK0B8umPhjw5c5WOge3PtcGoDB9Uk2/view?usp=share_link",
         author: "Unknown",
         year: 2010,
@@ -3001,7 +3001,7 @@ const ALL_MOVIES = [
     {
         id: 334,
         name: "The Princess Bride",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQR4O1DGDc5x_3pDsKSsls9hhu7sOzDW524LQyu9QQQIgK8HrowQ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1YnPym55TCYUgdEe65MHELL13ygweFutT/view?usp=drivesdk",
         author: "Unknown",
         year: 1987,
@@ -3010,7 +3010,7 @@ const ALL_MOVIES = [
     {
         id: 335,
         name: "The Wizard of Oz",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTzd3g7vD23lu1PbkrsrVUUqSdbzkA0klXqx0X6esomxCpieiyZ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ZfNxrVWB0U1Nwsrc03i5v9vGJtMJ9Ts3/view?usp=drivesdk",
         author: "Unknown",
         year: 1939,
@@ -3019,7 +3019,7 @@ const ALL_MOVIES = [
     {
         id: 336,
         name: "Return to Oz",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQQEpSWurtvfWpPb2Yobu0aW3PZ6Ee4HGQEKULOHasXZqQTugNvP",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1qINcGAx8SUBfoh3O-HeVLetY_rSVueAG/view?usp=drivesdk",
         author: "Unknown",
         year: 1985,
@@ -3028,7 +3028,7 @@ const ALL_MOVIES = [
     {
         id: 337,
         name: "Transformers",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQQsoMJd0WyTnWOV06jp_zbsy_PfcKXIuKAHDGdaCtj1CWGdmlUs",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/17FH0E-XliQ0VAWNnxrwkvhUrCCGLKx2A/view?usp=share_link",
         author: "Unknown",
         year: 2007,
@@ -3037,7 +3037,7 @@ const ALL_MOVIES = [
     {
         id: 338,
         name: "Transformers: Dark of the Moon",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQT_wf3Rkc65Zdo8kSkRBdIjuVl7_46uZcvVbGZSvyhbeg15MmY9",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/19dfiTEEqIVE9cxVBsyNVoG5c4UebhS0F/view?usp=share_link",
         author: "Unknown",
         year: 2011,
@@ -3046,7 +3046,7 @@ const ALL_MOVIES = [
     {
         id: 339,
         name: "Transformers: Age of Extinction",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQR4Zqyz71oScjVbQ_Fm8TgwEgAG_N8BduPMo3jCrE9Qm2x8EreF",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1evgnLc_0TRlHQ8_tcMcZYaYY-2_RmKWZ/view?usp=share_link",
         author: "Unknown",
         year: 2014,
@@ -3055,7 +3055,7 @@ const ALL_MOVIES = [
     {
         id: 340,
         name: "Transformers: The Last Knight",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQTcaimbsJ-RlOtxO_6xv7A_li4j1m3tab9agdmXy8gk2rjYl5Xl",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1b9ZHT2vDIp-JJ9JD0PWbEbyU1bDZMcPl/view?usp=share_link",
         author: "Unknown",
         year: 2017,
@@ -3064,7 +3064,7 @@ const ALL_MOVIES = [
     {
         id: 341,
         name: "Bumblebee",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQd7jrtaOp4wqOlX6orcwS65hSn9SQUeTLjbXoKWomQYA2VqDxP",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1wqi9Wk--koq0SqRkoVZWXLVJBtABkjPy/view?usp=share_link",
         author: "Unknown",
         year: 2018,
@@ -3073,7 +3073,7 @@ const ALL_MOVIES = [
     {
         id: 342,
         name: "Tron",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSXASaaKsH11l2GtAVigW8sRtzBkoOVsnbRjxjY0VDuFMiSd2-",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1hbhWcI11gA5EcXAxXGJkIjzq7VQIpZGp/view?usp=drivesdk",
         author: "Unknown",
         year: 1982,
@@ -3082,7 +3082,7 @@ const ALL_MOVIES = [
     {
         id: 343,
         name: "Teenage Mutant Ninja Turtles",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQRvL3L_bahxM8z4nz-QnHFTvo19Rog_75lVmdBm3xskw3jFN9Ay",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ivJXBaVGvN_HQJf-h46ko2DjyHHBZMH1/view",
         author: "Unknown",
         year: 1990,
@@ -3091,7 +3091,7 @@ const ALL_MOVIES = [
     {
         id: 344,
         name: "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQQe-oFfILzMrkzjz1Nz6dq7dNXhUOxv9X_copc3FJ3Ez9YzUtNx",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Bp9ioxFqOCfmEbQM90cbLcFAn9bPysDu/view",
         author: "Unknown",
         year: 1991,
@@ -3100,7 +3100,7 @@ const ALL_MOVIES = [
     {
         id: 345,
         name: "Teenage Mutant Ninja Turtles III",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQbNwXgJ8rmH25hH_opHQbzD6JiNDAazHlFO7sazCAA8EXz4pxJ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gdIpjtTCHV_a8p9KPQaQg1ljIcanpu5S/view",
         author: "Unknown",
         year: 1993,
@@ -3109,7 +3109,7 @@ const ALL_MOVIES = [
     {
         id: 346,
         name: "Turning Red",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQYGcDQZPX0Ghja5A8R0Vk9OT-ewrl6pbh0OPRXl0v38q74pnH9",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1joF2I_zdjepCD9ukmjV672HTICUfp4tO/view",
         author: "Unknown",
         year: 2022,
@@ -3118,7 +3118,7 @@ const ALL_MOVIES = [
     {
         id: 347,
         name: "Teenage Mutant Ninja Turtles: Out of the Shadows",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQQ5s9EeJQtwO7TlBYwEI3Qv9y7kZRKyYej7Z_GHsf2fNSw3kknC",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1Bp9ioxFqOCfmEbQM90cbLcFAn9bPysDu/view",
         author: "Unknown",
         year: 2016,
@@ -3127,7 +3127,7 @@ const ALL_MOVIES = [
     {
         id: 348,
         name: "TMNT",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTkXkpFp8nb09lazNxAC7YhcRTT-khLQdvUqW0CePZZ480Cs2W7",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/18iqYAOVbRHOT7jzJ3sqlyxi8RS5AH5sM/view?usp=sharing",
         author: "Unknown",
         year: 2007,
@@ -3136,7 +3136,7 @@ const ALL_MOVIES = [
     {
         id: 349,
         name: "The Good Dinosaur",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQRhFB5EB5O5Y4KI08D8bNoJGisuJvhahBApemjOPLflXsMJYGTK",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1vELzmz9u6vQ18YtMipK9nSWJhZLP6KaH/view?usp=sharing",
         author: "Unknown",
         year: 2015,
@@ -3145,7 +3145,7 @@ const ALL_MOVIES = [
     {
         id: 350,
         name: "The Little Mermaid",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQcIBCSngOPWrqGbjFB8DTlTdJXrc6NXp-qHjP-OjFniTrRl2ZJ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GM7QyJzFwEKM2fM42SWb7oIRN2UPUzqM/view?usp=sharing",
         author: "Unknown",
         year: 1989,
@@ -3154,7 +3154,7 @@ const ALL_MOVIES = [
     {
         id: 351,
         name: "The Brady Bunch Movie",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSn-MWfPJUHnEOZjkEcwYhM-bjy0Y1a4LDHVenQVrg_QXcc9mst",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/18i5j4gguKnfjNXVcfPKLz3GbxaiWbhrh/view?usp=drive_link",
         author: "Unknown",
         year: 1995,
@@ -3163,7 +3163,7 @@ const ALL_MOVIES = [
     {
         id: 352,
         name: "The Purge",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQSB42KBjwptX7K_YMYpgmIHQcYSiTBSRBUsi5cgwKO0vosFeOCW",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1PFz-u8_kVFY8Z--NyloACB1DUwiT0oK4/view?usp=drive_link",
         author: "Unknown",
         year: 2013,
@@ -3172,7 +3172,7 @@ const ALL_MOVIES = [
     {
         id: 353,
         name: "The Purge: Election Year",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQQealOoCUe2m6tjoQT6V5AveTE1CUAL9_XfUkW8Zb6kgrhlqoc_",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1TmtXANeLZHYqnxcjn5JsiO2LMi6J7H_z/view?usp=drive_link",
         author: "Unknown",
         year: 2016,
@@ -3181,7 +3181,7 @@ const ALL_MOVIES = [
     {
         id: 354,
         name: "The Purge: Anarchy",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTnn5WNrVimVnmVjtPcUIrDiKlRArDt3gWWytXZoQ66YWxOz2EY",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1d7FFXzRf0u7L23AqH-HsUua_kA8a_edQ/view?usp=drive_link",
         author: "Unknown",
         year: 2014,
@@ -3190,7 +3190,7 @@ const ALL_MOVIES = [
     {
         id: 355,
         name: "Purge of Kingdoms",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTLx2_UEBgBYZT3de0KHddetgE7cNPV9WIVehrvRqJglY_nzgtH",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1tfdoWD6V8uopSbpIE5GJUg0dZI-2P-yD/view?usp=drive_link",
         author: "Unknown",
         year: 2019,
@@ -3199,7 +3199,7 @@ const ALL_MOVIES = [
     {
         id: 356,
         name: "The Forever Purge",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRBCPBd-SsIu02SmLfCEAT7tVNaBD2D8M4cUmkoNQ6lHcoBYYXv",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gl4AuWnS848wnWlbH9ToOi7Ga1OV7y_1/view?usp=drive_link",
         author: "Unknown",
         year: 2021,
@@ -3208,7 +3208,7 @@ const ALL_MOVIES = [
     {
         id: 357,
         name: "A Very Brady Sequel",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQS6C25A0p5vZFYIU23MnSmq4rZ3bT2_ExpPvtcPT30SRau2BVy5",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/139xwpHkb9tF64bSc0PnKZMBGtdCHh7pW/view?usp=drive_link",
         author: "Unknown",
         year: 1996,
@@ -3217,7 +3217,7 @@ const ALL_MOVIES = [
     {
         id: 358,
         name: "The Mask",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQS07A8VeApODwJzJ8pL2VKFGTyC__tlwe64kfna-El4rmkKZfe3",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/13IzLS6dOFDxCk_mNWpttFncqs1hQoJ3L/view?usp=sharing",
         author: "Unknown",
         year: 1994,
@@ -3226,7 +3226,7 @@ const ALL_MOVIES = [
     {
         id: 359,
         name: "The Addams Family",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQR5ehZCJ4nhEDd2QLl-FzEB-wODuejQAOul7vXwHkJDbR4ebA8G",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/19ZYLs_076nTJtl7bEUtkwpfbwwj-GevJ/view?usp=sharing",
         author: "Unknown",
         year: 1991,
@@ -3235,7 +3235,7 @@ const ALL_MOVIES = [
     {
         id: 360,
         name: "The Little Mermaid",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQSzgEMr-b0r6azURMgMKJBsejBnyS80leit3BuXsTbNNONXcttO",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1sFYkkRX85JK-a2LRl8_QmZPhYkYIn6KG/view",
         author: "Unknown",
         year: 2023,
@@ -3244,7 +3244,7 @@ const ALL_MOVIES = [
     {
         id: 361,
         name: "The Smurfs 2",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQTv4e-nTK65R73wKGqZVIxRzYpsJddKft8FDbtUBKr3LzYuAiN2",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1FYgtU8rAKF32RjDRgYqODXzOHV0mQuBy/view?usp=share_link",
         author: "Unknown",
         year: 2013,
@@ -3253,7 +3253,7 @@ const ALL_MOVIES = [
     {
         id: 362,
         name: "The Book of Life",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQS5f5iIe-zjJKQ-RI8WsFZgWAK83uExcrbw-Gwv-BtMDAt8aBg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1_MkoFWTqhvJM4YNqGFzSabwKSSL4fa55/view?usp=drive_link",
         author: "Unknown",
         year: 2014,
@@ -3262,7 +3262,7 @@ const ALL_MOVIES = [
     {
         id: 363,
         name: "The Nightmare Before Christmas",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQSOgiKvYkIrCXt6eUC8cDtsMci6OPlooJ3BGr5XOOMP62zhrBgd",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BPYV-xYt77pQYztFM14VHk3wBZZ_l0ng/view?usp=sharing",
         author: "Unknown",
         year: 1993,
@@ -3271,7 +3271,7 @@ const ALL_MOVIES = [
     {
         id: 364,
         name: "Twilight",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQmjt0QnOesE-4q_MTAF4cbDr9vs5H6MUlltEBXXU_KXN90SOcC",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1YEIurV6IBGg7IYqTE9EX2vHLUQeEfBjH/view?usp=sharing",
         author: "Unknown",
         year: 2008,
@@ -3280,7 +3280,7 @@ const ALL_MOVIES = [
     {
         id: 365,
         name: "The Twilight Saga: Breaking Dawn – Part 1",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQkJGta5x_f_d8L3xAHRml8CijY6rk4rYoB40N4U0p_KertM9wG",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1GTUALkIJ4mkxae00sdbQdGUhUl4i8lGm/view?usp=drive_link",
         author: "Unknown",
         year: 2011,
@@ -3289,7 +3289,7 @@ const ALL_MOVIES = [
     {
         id: 366,
         name: "The Twilight Saga: Breaking Dawn – Part 2",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQSmm3ZE2UOm2LjJZzC_8It0YdBsCLiXvVtIbUfgJPEzaWDJN2d3",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/12J1e35T-HQtLoTvfs70-TlZ4oJsXsxvX/view?usp=drive_link",
         author: "Unknown",
         year: 2012,
@@ -3298,7 +3298,7 @@ const ALL_MOVIES = [
     {
         id: 367,
         name: "The Menu",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQRATQt6BNZVdY6jntTafu1unrvk2Bkads1CNNsSI_ukqkchd41l",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/14Audx3RqZPMTyLzErPzkKuCQPVWhTC0y/view?usp=sharing",
         author: "Unknown",
         year: 2022,
@@ -3307,7 +3307,7 @@ const ALL_MOVIES = [
     {
         id: 368,
         name: "The Princess and the Frog",
-        cover: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9CcRQTUp5AzSoG_sHJ_J2erRI0DI6pT6KCXzF1635hYMQzM2VYO4kWQ",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1PIQExpRvAPANHRDAZ-On7ld9je2O-5He/view?usp=sharing",
         author: "Unknown",
         year: 2009,
@@ -3316,7 +3316,7 @@ const ALL_MOVIES = [
     {
         id: 369,
         name: "The Greatest Showman",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQRzC8YDonTuBVmDTALNQLc9476-WNyxpgBkKHziaVzQ2WeuP81a",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1ErElLX4tetXsqWfpivPg3JlEht4ERibn/view?usp=drive_link",
         author: "Unknown",
         year: 2017,
@@ -3325,7 +3325,7 @@ const ALL_MOVIES = [
     {
         id: 370,
         name: "Tangled",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQSD4LXFpI_Z1E-RnINQ3YNDiA5SWRrXWTyQH-EsJLMfkTi6Wbwh",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1eirKJt3ulfEusRJ6OM0jwpJ_YbL8iExC/view?usp=sharing",
         author: "Unknown",
         year: 2010,
@@ -3334,7 +3334,7 @@ const ALL_MOVIES = [
     {
         id: 371,
         name: "War Dogs",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQz118ZgeREdaftTv6pbVwDOEQFj3Eu41xL40YlUwcs-SkcyA0c",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/drive/u/0/folders/1dAcCk18ksPVX1vOSmwuwXA8IFoYpZ6eX?ths=true",
         author: "Unknown",
         year: 2016,
@@ -3343,7 +3343,7 @@ const ALL_MOVIES = [
     {
         id: 372,
         name: "Wish",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTiz1j_f6CY7G4Hom1g_dOxhKeQp9y60A_mE9FNi-fmIGtLhrJw",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1KOmgE1jMV0jT2QkWFFd3ieEzwf4GbVOw/view?usp=drive_link",
         author: "Unknown",
         year: 2023,
@@ -3352,7 +3352,7 @@ const ALL_MOVIES = [
     {
         id: 373,
         name: "West Side Story",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQRarOYUceawAtewfDzZ_fKv41A8iqJa_a08B9x7beMyPajAVYnD",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1CBGr82HWTP2XM-HJPURXFGV1uqE5-ip-/view?usp=drive_link",
         author: "Unknown",
         year: 1961,
@@ -3361,7 +3361,7 @@ const ALL_MOVIES = [
     {
         id: 374,
         name: "West Side Story",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQTLu6vPTCNv4CIe2PjMfOUfkqx4-sr-n7N21RTeGpX-3jyz6F3y",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1XCfKDI8cKvYQO2UGFOKBe5qlmcL8Vsry/view?usp=drive_link",
         author: "Unknown",
         year: 2021,
@@ -3370,7 +3370,7 @@ const ALL_MOVIES = [
     {
         id: 375,
         name: "X-Men",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQTs686YIkHVvGXiyOSJ6cIwZdN_rJ32xKrT3RjY3gSmPBChqD6d",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1BIJIiG8fdpyudl-1vXHIU3TBb3XMXJaa/view",
         author: "Unknown",
         year: 2000,
@@ -3379,7 +3379,7 @@ const ALL_MOVIES = [
     {
         id: 376,
         name: "X2",
-        cover: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9CcRQQi7H7EH3feLf08W_zr_fhMdZEioOw4sayHEEmQnNtEMigSTeDU",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/16fA19e1MhAZaUaosRHey_c1VAZoM1iB8/view",
         author: "Unknown",
         year: 2003,
@@ -3388,7 +3388,7 @@ const ALL_MOVIES = [
     {
         id: 377,
         name: "X-Men: The Last Stand",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQBJkBF8kdLTa4fwuCtojCFtkYhE5vzUYcnI9ZYSIqMFt2nODCh",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/176dVR22sSEaJMY5TfITCW9TIC2fNYBMm/view",
         author: "Unknown",
         year: 2006,
@@ -3397,7 +3397,7 @@ const ALL_MOVIES = [
     {
         id: 378,
         name: "Zapped",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQRtBBV3nPyIgvfqzw371YvgS2hNhHObE5qzYNQT9qBSKXIP5tyg",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1gO0OtMfAoVUaZGxX825aH48OySgHYd5n/view?usp=sharing",
         author: "Unknown",
         year: 2014,
@@ -3406,7 +3406,7 @@ const ALL_MOVIES = [
     {
         id: 379,
         name: "Hoppers",
-        cover: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9CcRQRmZawCA6nU54kqX2dugkNQi4A58G-yqWyUu0E3YwbaVp5GgTC",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1NkmCNf5CUML_KZvNi4fgGKA8r7fpXIdd/view?usp=drive_link",
         author: "Unknown",
         year: 2026,
@@ -3424,7 +3424,7 @@ const ALL_MOVIES = [
     {
         id: 381,
         name: "Joe's College Road Trip",
-        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9CcRQSQ2dnKKC8DQp0G9BNla7b5oE_-0LMZxR7zwolrwnUlWM-6_xQ0",
+        cover: "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Movie+Poster",
         url: "https://drive.google.com/file/d/1bIHwYf80n_DovwE2D7irPbgkyaVZOChx/view?usp=drive_link",
         author: "Unknown",
         year: 2026,
